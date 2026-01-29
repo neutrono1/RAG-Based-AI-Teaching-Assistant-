@@ -37,6 +37,7 @@ RAG_BAS_PROJECT/
 ├── response.txt                 # Final AI-generated answer
 ├── VIDEOS/                      # (Empty) Place downloaded videos here
 ├── AUDIOS/                      # (Empty) Place extracted MP3 files here
+├──json/                         # all the json file which store the chunks and text 
 └── README.md
 ```
 
