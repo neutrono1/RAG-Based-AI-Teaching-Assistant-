@@ -1,0 +1,943 @@
+{
+  "chunks": [
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 0.0,
+      "End": 4.8,
+      "Text": "In the previous lecture which was the first problem on multiple transformations,"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 4.8,
+      "End": 9.3,
+      "Text": "we followed the priority order to obtain the multiple transformed signal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 9.3,
+      "End": 14.700000000000001,
+      "Text": "But in the second problem, which you can see on your screen, we will not follow the priority order."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 14.700000000000001,
+      "End": 19.6,
+      "Text": "There are three different methods by using which you can obtain the multiple transformed signal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 19.6,
+      "End": 22.6,
+      "Text": "In the method number one, we will use the shortcut."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 22.6,
+      "End": 29.7,
+      "Text": "And by using the shortcut, you will have your waveform, the transformed waveform in one step only."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 29.7,
+      "End": 33.6,
+      "Text": "In the second method, we will perform scaling first and then shifting."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 33.6,
+      "End": 38.0,
+      "Text": "And in the third method, we will perform shifting first and then scaling."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 38.0,
+      "End": 40.6,
+      "Text": "So let's see how we can solve this problem."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 40.6,
+      "End": 45.9,
+      "Text": "In this problem, signal xt is the input signal and the waveform you can see."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 45.9,
+      "End": 52.7,
+      "Text": "And it is given to a system represented by this rectangular box."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 52.7,
+      "End": 58.8,
+      "Text": "And the output of the system is yt which is equal to x-2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 58.9,
+      "End": 65.2,
+      "Text": "So the original signal was xt and after performing the transformations using this system,"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 65.2,
+      "End": 68.6,
+      "Text": "the output is x-2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 68.6,
+      "End": 73.89999999999999,
+      "Text": "And if you compare these two signals, you can see there are multiple transformations."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 73.89999999999999,
+      "End": 78.8,
+      "Text": "I can see time shifting."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 78.8,
+      "End": 84.3,
+      "Text": "I can see time scaling."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 84.3,
+      "End": 88.0,
+      "Text": "And I can also see time reversal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 88.0,
+      "End": 93.1,
+      "Text": "This minus sign shows there is time reversal occurred because of this system."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 93.1,
+      "End": 97.9,
+      "Text": "And we need to perform these three operations to obtain the output signal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 97.9,
+      "End": 104.9,
+      "Text": "But in examinations, when you have four options given, you can directly follow the shortcut method to obtain your answer."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 104.9,
+      "End": 111.8,
+      "Text": "So let's discuss the method number one in which we will follow the shortcut method."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 111.89999999999999,
+      "End": 127.39999999999999,
+      "Text": "In shortcut method, we first draw the waveform in which the y-axis is of the output signal x-2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 127.39999999999999,
+      "End": 133.6,
+      "Text": "But the x-axis which is the time axis, we change it to minus 2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 133.6,
+      "End": 139.1,
+      "Text": "Whatever is there inside this bracket, we change the x-axis to it."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 139.1,
+      "End": 143.5,
+      "Text": "So minus 2t plus 1 is the x-axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 143.5,
+      "End": 152.0,
+      "Text": "And if I consider minus 2t plus 1 as alpha, let's say it is alpha, then this axis here will be alpha."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 152.0,
+      "End": 158.6,
+      "Text": "So x of alpha is the y-axis and alpha is the x-axis which is similar to x of t and t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 158.6,
+      "End": 164.0,
+      "Text": "So the waveform of this signal will be similar to the waveform of the input signal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 164.1,
+      "End": 173.0,
+      "Text": "So we can have the waveform same as the input signal like this."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 173.0,
+      "End": 180.1,
+      "Text": "At 0, the amplitude is 1. This is minus 3, this is 6 and this is origin."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 180.1,
+      "End": 184.0,
+      "Text": "So this is how we complete the first step in the shortcut method."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 184.0,
+      "End": 190.1,
+      "Text": "Now in the next step, we will try to have t in the x-axis because the output signal is yt"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 190.1,
+      "End": 194.79999999999998,
+      "Text": "and the independent variable is time t, not minus 2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 194.79999999999998,
+      "End": 200.29999999999998,
+      "Text": "So we need t in the x-axis. So we need to change minus 2t plus 1 to t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 200.29999999999998,
+      "End": 211.0,
+      "Text": "And how we can do it? We can simply subtract minus 1 from minus 2t plus 1 and this will give us minus 2t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 211.0,
+      "End": 216.6,
+      "Text": "And then we will divide minus 2t by 2 to have minus t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 216.6,
+      "End": 225.2,
+      "Text": "And again we will multiply minus t by minus 1 or you can say by performing the time reversal, we will have t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 225.2,
+      "End": 229.5,
+      "Text": "So these are all the steps we need to do to obtain t in the x-axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 229.5,
+      "End": 233.8,
+      "Text": "So let's do them one by one. I will write down all the steps."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 233.8,
+      "End": 238.6,
+      "Text": "This is step number 1, this is step number 2 and this is step number 3."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 238.7,
+      "End": 245.79999999999998,
+      "Text": "So in step number 1, we are subtracting 1. So let's subtract 1 from minus 3, 1 from 6"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 245.79999999999998,
+      "End": 252.6,
+      "Text": "and we also need to subtract 1 from 0 because if you remember the important point"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 252.6,
+      "End": 259.1,
+      "Text": "and shortcut method lecture on multiple transformations, we did not perform the operations at 0"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 259.1,
+      "End": 265.2,
+      "Text": "because the amplitude was constant there. We had the rectangular waveform and the amplitude was constant."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 265.2,
+      "End": 272.8,
+      "Text": "But here there is change in the amplitude at 0, that's why we are required to perform the transformations at 0 also."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 272.8,
+      "End": 279.0,
+      "Text": "So this is one important point in the shortcut and because of which we will subtract 1 from 0."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 279.0,
+      "End": 286.9,
+      "Text": "And this will give us, this will give us minus 4, minus 1 and 5."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 286.9,
+      "End": 294.5,
+      "Text": "This is after completing the first step. Now in the second step, we are dividing the x-axis by 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 294.5,
+      "End": 302.9,
+      "Text": "So let's divide the x-axis by 2. I will divide minus 4 by 2, minus 1 by 2 and 5 by 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 302.9,
+      "End": 312.8,
+      "Text": "This will give me minus 2, minus 0.5 and 2.5. We are done with step number 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 312.8,
+      "End": 317.1,
+      "Text": "Let's move to the final step in which we will perform the time reversal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 317.1,
+      "End": 320.3,
+      "Text": "We will multiply the x-axis by minus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 320.3,
+      "End": 324.5,
+      "Text": "So when you multiply minus 1 and minus 2, you will get 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 324.5,
+      "End": 334.3,
+      "Text": "Minus 0.5 multiplied with minus 1 is 0.5 and 2.5 will become minus 2.5."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 334.3,
+      "End": 341.8,
+      "Text": "In this way, we have converted the x-axis from minus 2t plus 1 to t and now we can easily plot the output waveform."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 341.8,
+      "End": 347.8,
+      "Text": "So let's do it quickly."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 347.8,
+      "End": 356.0,
+      "Text": "yt which is x minus 2t plus 1 and this axis is time axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 356.0,
+      "End": 366.6,
+      "Text": "At t equal to 2, the signal is equal to 0. At t equal to 0.5, the signal is 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 366.6,
+      "End": 378.3,
+      "Text": "Let's say this is 0.5, the signal is equal to 1 and at t equal to minus 2.5, the signal is again equal to 0."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 378.3,
+      "End": 390.3,
+      "Text": "This is minus 2.5, the signal is 0. Now we will join these three points to get the final waveform."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 390.3,
+      "End": 397.90000000000003,
+      "Text": "So this is the answer of this problem and this amplitude here is equal to 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 397.90000000000003,
+      "End": 403.40000000000003,
+      "Text": "So you can see it is very easy to obtain the final waveform using the shortcut method."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 403.40000000000003,
+      "End": 407.2,
+      "Text": "All these calculations I have done to explain you the process."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 407.2,
+      "End": 413.0,
+      "Text": "Once you practice few more questions using the shortcut method, you can directly write down the answers."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 413.1,
+      "End": 422.6,
+      "Text": "Now let's move to method number 2 in which we will perform scaling first and then we will perform the shifting."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 422.6,
+      "End": 435.8,
+      "Text": "The original signal is xt and we will perform time scaling and after performing time scaling, the new signal is x2t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 435.90000000000003,
+      "End": 440.1,
+      "Text": "And we know what we need to do in case of time scaling."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 440.1,
+      "End": 451.0,
+      "Text": "As the multiplied number is 2 which is greater than 1, there is compression of the signal and we have obtained minus 1.5 and 3 by dividing minus 3 by 2 and 6 by 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 451.0,
+      "End": 456.1,
+      "Text": "In the next step, we will perform the time shifting or you can perform the time reversal first."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 456.1,
+      "End": 460.8,
+      "Text": "Even if you can perform the time reversal after performing the time shifting, it is up to you."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 460.8,
+      "End": 464.1,
+      "Text": "Time reversal is not that complicated to perform."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 464.1,
+      "End": 467.90000000000003,
+      "Text": "We only have to take the mirror image about the y-axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 467.90000000000003,
+      "End": 469.7,
+      "Text": "So let's do it quickly."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 469.7,
+      "End": 473.6,
+      "Text": "We will obtain the mirror image about the y-axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 473.6,
+      "End": 478.0,
+      "Text": "So this is how the signal will look once you perform the time reversal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 478.0,
+      "End": 482.6,
+      "Text": "And now we will perform the final operation which is time shifting."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 482.6,
+      "End": 490.1,
+      "Text": "So we have x minus 2t and we want x minus 2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 490.1,
+      "End": 492.1,
+      "Text": "Now this is an important step."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 492.1,
+      "End": 500.40000000000003,
+      "Text": "As I told you, whenever you perform any operation, you have to look at the x-axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 500.40000000000003,
+      "End": 505.6,
+      "Text": "x minus 2t plus 1 and the x-axis is t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 505.6,
+      "End": 512.6,
+      "Text": "But here the shifting which is by 1 is performed against minus 2t but the x-axis here is t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 512.6,
+      "End": 516.9,
+      "Text": "So we cannot perform the shifting by 1 against minus 2t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 517.0,
+      "End": 520.9,
+      "Text": "So we need to separate the time t so that we can perform the shifting."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 520.9,
+      "End": 522.3,
+      "Text": "Let's do it."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 522.3,
+      "End": 527.0,
+      "Text": "From here, we can have x."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 527.0,
+      "End": 528.5,
+      "Text": "I will take minus to common."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 528.5,
+      "End": 534.8,
+      "Text": "This will give me t minus 1 by 2 or 0.5."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 534.8,
+      "End": 539.6999999999999,
+      "Text": "And in that way we have separated the t and now you can see we are performing the shifting"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 539.6999999999999,
+      "End": 546.1999999999999,
+      "Text": "by 0.5 and the shift will be right because there is minus sign against time t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 546.3000000000001,
+      "End": 547.7,
+      "Text": "So let's do it quickly."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 547.7,
+      "End": 553.0,
+      "Text": "We will shift this waveform by 0.5 towards the right."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 553.0,
+      "End": 560.3000000000001,
+      "Text": "So when you shift minus 3 by 0.5 towards the right, you will have minus 2.5."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 560.3000000000001,
+      "End": 570.0,
+      "Text": "When you shift 0 towards the right by 0.5, you will have 0.5 and 1.5 will become 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 570.0,
+      "End": 572.3000000000001,
+      "Text": "At minus 2.5, signal is 0."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 572.3000000000001,
+      "End": 573.5,
+      "Text": "At 2, signal is 0."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 573.5,
+      "End": 575.9000000000001,
+      "Text": "But at 0.5, signal is 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 576.1,
+      "End": 583.5,
+      "Text": "Join these three points and you will get the final waveform."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 583.5,
+      "End": 588.6,
+      "Text": "And if you compare these two waveforms, you will find they are same."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 588.6,
+      "End": 592.6999999999999,
+      "Text": "So by using the method number 2, you can get the answer as well."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 592.6999999999999,
+      "End": 600.1,
+      "Text": "Now let us discuss the final method, the third method in which we will perform the time shifting"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 600.1,
+      "End": 601.1,
+      "Text": "first."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 601.1,
+      "End": 611.7,
+      "Text": "So the signal is xt and we will perform the time shifting first and this will give us"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 611.7,
+      "End": 614.84,
+      "Text": "xt plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 614.84,
+      "End": 622.88,
+      "Text": "Now here if you see the output signal which is x minus 2t plus 1, the shifting is by 1"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 622.88,
+      "End": 627.6800000000001,
+      "Text": "and if you are performing the shifting first, then you have to perform it against time t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 627.78,
+      "End": 635.78,
+      "Text": "So we will perform the shifting against time t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 635.78,
+      "End": 644.6999999999999,
+      "Text": "xt plus 1t, in this case the signal was x minus 2t before performing the time shifting"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 644.6999999999999,
+      "End": 649.02,
+      "Text": "and in this case the signal is xt before performing the time shifting."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 649.02,
+      "End": 654.4599999999999,
+      "Text": "So there is no need to separate the time t in this case because it is already separated"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 654.72,
+      "End": 657.52,
+      "Text": "and we are performing the shifting against t."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 657.52,
+      "End": 662.88,
+      "Text": "But here in this case, the time was multiplied by minus 2, that's why it was important to"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 662.88,
+      "End": 667.5600000000001,
+      "Text": "separate the time t before performing the shifting to get the correct waveform."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 667.5600000000001,
+      "End": 672.5600000000001,
+      "Text": "So we don't have to worry about any separation in this case, we will directly shift the signal"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 672.5600000000001,
+      "End": 675.0400000000001,
+      "Text": "towards the left by 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 675.0400000000001,
+      "End": 678.72,
+      "Text": "And to do this, we need to see the original signal."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 678.72,
+      "End": 684.34,
+      "Text": "This is the original signal and we will shift it towards the left by 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 684.36,
+      "End": 688.6,
+      "Text": "This is what you will get once you shift the signal towards the left by 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 688.6,
+      "End": 694.52,
+      "Text": "So we are done with the first step in method no.3 and now we will perform the time scaling."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 694.52,
+      "End": 705.8000000000001,
+      "Text": "We will perform the time scaling of xt plus 1, time scaling and the obtained signal is"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 705.8000000000001,
+      "End": 708.52,
+      "Text": "x2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 708.52,
+      "End": 710.72,
+      "Text": "The compression of the signal will take place."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 710.72,
+      "End": 715.8000000000001,
+      "Text": "So we will divide minus 4 by 2, minus 1 by 2 and 5 by 2."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 715.8000000000001,
+      "End": 721.02,
+      "Text": "And in that way we will have the waveform which will look like this."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 721.02,
+      "End": 727.22,
+      "Text": "Now we will perform the time reversal, x2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 727.22,
+      "End": 733.3000000000001,
+      "Text": "After performing the time reversal, we will have x minus 2t plus 1."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 733.3000000000001,
+      "End": 738.6800000000001,
+      "Text": "We will take the mirror image about the y-axis."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 738.68,
+      "End": 745.06,
+      "Text": "So this is the waveform of signal yt and if you compare this waveform with the two"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 745.06,
+      "End": 749.2399999999999,
+      "Text": "waveforms we have obtained here and here, it will be same."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 749.2399999999999,
+      "End": 754.0999999999999,
+      "Text": "So in all the three methods, we have obtained the same answer and I hope this process is"
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 754.0999999999999,
+      "End": 755.38,
+      "Text": "clear to you."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 755.38,
+      "End": 757.5999999999999,
+      "Text": "If you have any doubt, you may ask in the comment section."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 757.5999999999999,
+      "End": 759.06,
+      "Text": "I will end this lecture here."
+    },
+    {
+      "Number": "13",
+      "Title": "Multiple Transformations of CTS (Solved Problem 2)",
+      "Start": 759.06,
+      "End": 759.78,
+      "Text": "See you in the next one."
+    }
+  ],
+  "text": " In the previous lecture which was the first problem on multiple transformations, we followed the priority order to obtain the multiple transformed signal. But in the second problem, which you can see on your screen, we will not follow the priority order. There are three different methods by using which you can obtain the multiple transformed signal. In the method number one, we will use the shortcut. And by using the shortcut, you will have your waveform, the transformed waveform in one step only. In the second method, we will perform scaling first and then shifting. And in the third method, we will perform shifting first and then scaling. So let's see how we can solve this problem. In this problem, signal xt is the input signal and the waveform you can see. And it is given to a system represented by this rectangular box. And the output of the system is yt which is equal to x-2t plus 1. So the original signal was xt and after performing the transformations using this system, the output is x-2t plus 1. And if you compare these two signals, you can see there are multiple transformations. I can see time shifting. I can see time scaling. And I can also see time reversal. This minus sign shows there is time reversal occurred because of this system. And we need to perform these three operations to obtain the output signal. But in examinations, when you have four options given, you can directly follow the shortcut method to obtain your answer. So let's discuss the method number one in which we will follow the shortcut method. In shortcut method, we first draw the waveform in which the y-axis is of the output signal x-2t plus 1. But the x-axis which is the time axis, we change it to minus 2t plus 1. Whatever is there inside this bracket, we change the x-axis to it. So minus 2t plus 1 is the x-axis. And if I consider minus 2t plus 1 as alpha, let's say it is alpha, then this axis here will be alpha. So x of alpha is the y-axis and alpha is the x-axis which is similar to x of t and t. So the waveform of this signal will be similar to the waveform of the input signal. So we can have the waveform same as the input signal like this. At 0, the amplitude is 1. This is minus 3, this is 6 and this is origin. So this is how we complete the first step in the shortcut method. Now in the next step, we will try to have t in the x-axis because the output signal is yt and the independent variable is time t, not minus 2t plus 1. So we need t in the x-axis. So we need to change minus 2t plus 1 to t. And how we can do it? We can simply subtract minus 1 from minus 2t plus 1 and this will give us minus 2t. And then we will divide minus 2t by 2 to have minus t. And again we will multiply minus t by minus 1 or you can say by performing the time reversal, we will have t. So these are all the steps we need to do to obtain t in the x-axis. So let's do them one by one. I will write down all the steps. This is step number 1, this is step number 2 and this is step number 3. So in step number 1, we are subtracting 1. So let's subtract 1 from minus 3, 1 from 6 and we also need to subtract 1 from 0 because if you remember the important point and shortcut method lecture on multiple transformations, we did not perform the operations at 0 because the amplitude was constant there. We had the rectangular waveform and the amplitude was constant. But here there is change in the amplitude at 0, that's why we are required to perform the transformations at 0 also. So this is one important point in the shortcut and because of which we will subtract 1 from 0. And this will give us, this will give us minus 4, minus 1 and 5. This is after completing the first step. Now in the second step, we are dividing the x-axis by 2. So let's divide the x-axis by 2. I will divide minus 4 by 2, minus 1 by 2 and 5 by 2. This will give me minus 2, minus 0.5 and 2.5. We are done with step number 2. Let's move to the final step in which we will perform the time reversal. We will multiply the x-axis by minus 1. So when you multiply minus 1 and minus 2, you will get 2. Minus 0.5 multiplied with minus 1 is 0.5 and 2.5 will become minus 2.5. In this way, we have converted the x-axis from minus 2t plus 1 to t and now we can easily plot the output waveform. So let's do it quickly. yt which is x minus 2t plus 1 and this axis is time axis. At t equal to 2, the signal is equal to 0. At t equal to 0.5, the signal is 1. Let's say this is 0.5, the signal is equal to 1 and at t equal to minus 2.5, the signal is again equal to 0. This is minus 2.5, the signal is 0. Now we will join these three points to get the final waveform. So this is the answer of this problem and this amplitude here is equal to 1. So you can see it is very easy to obtain the final waveform using the shortcut method. All these calculations I have done to explain you the process. Once you practice few more questions using the shortcut method, you can directly write down the answers. Now let's move to method number 2 in which we will perform scaling first and then we will perform the shifting. The original signal is xt and we will perform time scaling and after performing time scaling, the new signal is x2t. And we know what we need to do in case of time scaling. As the multiplied number is 2 which is greater than 1, there is compression of the signal and we have obtained minus 1.5 and 3 by dividing minus 3 by 2 and 6 by 2. In the next step, we will perform the time shifting or you can perform the time reversal first. Even if you can perform the time reversal after performing the time shifting, it is up to you. Time reversal is not that complicated to perform. We only have to take the mirror image about the y-axis. So let's do it quickly. We will obtain the mirror image about the y-axis. So this is how the signal will look once you perform the time reversal. And now we will perform the final operation which is time shifting. So we have x minus 2t and we want x minus 2t plus 1. Now this is an important step. As I told you, whenever you perform any operation, you have to look at the x-axis. x minus 2t plus 1 and the x-axis is t. But here the shifting which is by 1 is performed against minus 2t but the x-axis here is t. So we cannot perform the shifting by 1 against minus 2t. So we need to separate the time t so that we can perform the shifting. Let's do it. From here, we can have x. I will take minus to common. This will give me t minus 1 by 2 or 0.5. And in that way we have separated the t and now you can see we are performing the shifting by 0.5 and the shift will be right because there is minus sign against time t. So let's do it quickly. We will shift this waveform by 0.5 towards the right. So when you shift minus 3 by 0.5 towards the right, you will have minus 2.5. When you shift 0 towards the right by 0.5, you will have 0.5 and 1.5 will become 2. At minus 2.5, signal is 0. At 2, signal is 0. But at 0.5, signal is 1. Join these three points and you will get the final waveform. And if you compare these two waveforms, you will find they are same. So by using the method number 2, you can get the answer as well. Now let us discuss the final method, the third method in which we will perform the time shifting first. So the signal is xt and we will perform the time shifting first and this will give us xt plus 1. Now here if you see the output signal which is x minus 2t plus 1, the shifting is by 1 and if you are performing the shifting first, then you have to perform it against time t. So we will perform the shifting against time t. xt plus 1t, in this case the signal was x minus 2t before performing the time shifting and in this case the signal is xt before performing the time shifting. So there is no need to separate the time t in this case because it is already separated and we are performing the shifting against t. But here in this case, the time was multiplied by minus 2, that's why it was important to separate the time t before performing the shifting to get the correct waveform. So we don't have to worry about any separation in this case, we will directly shift the signal towards the left by 1. And to do this, we need to see the original signal. This is the original signal and we will shift it towards the left by 1. This is what you will get once you shift the signal towards the left by 1. So we are done with the first step in method no.3 and now we will perform the time scaling. We will perform the time scaling of xt plus 1, time scaling and the obtained signal is x2t plus 1. The compression of the signal will take place. So we will divide minus 4 by 2, minus 1 by 2 and 5 by 2. And in that way we will have the waveform which will look like this. Now we will perform the time reversal, x2t plus 1. After performing the time reversal, we will have x minus 2t plus 1. We will take the mirror image about the y-axis. So this is the waveform of signal yt and if you compare this waveform with the two waveforms we have obtained here and here, it will be same. So in all the three methods, we have obtained the same answer and I hope this process is clear to you. If you have any doubt, you may ask in the comment section. I will end this lecture here. See you in the next one."
+}

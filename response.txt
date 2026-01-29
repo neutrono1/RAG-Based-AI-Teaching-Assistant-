@@ -1,0 +1,12 @@
+Answer:
+Based on the provided lecture content, a 'signal' is introduced as a fundamental concept in Signals and Systems. The lectures pose the question, "what is a signal?", and highlight that its definition is important and covered within the course.
+
+Where it is taught:
+- Lecture Title: Introduction to Signals and Systems
+- Lecture Number: 1
+- Start Time: 101.5 seconds
+- End Time: 103.2 seconds
+- Lecture Title: Introduction to Signals and Systems
+- Lecture Number: 1
+- Start Time: 279.58 seconds
+- End Time: 284.34 seconds

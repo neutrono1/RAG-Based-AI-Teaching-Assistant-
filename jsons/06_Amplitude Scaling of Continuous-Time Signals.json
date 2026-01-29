@@ -1,0 +1,488 @@
+{
+  "chunks": [
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 0.0,
+      "End": 9.6,
+      "Text": "Scaling of continuous and discrete time signals is of two types."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 9.6,
+      "End": 14.06,
+      "Text": "The first one is time scaling and the second one is amplitude scaling."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 14.06,
+      "End": 19.82,
+      "Text": "In the previous lecture, we have completed time scaling of continuous time signals and"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 19.82,
+      "End": 25.28,
+      "Text": "in this lecture, we will discuss amplitude scaling of continuous time signals."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 25.28,
+      "End": 32.22,
+      "Text": "In case of amplitude scaling, we multiply the amplitude of a signal by a real number."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 32.22,
+      "End": 41.260000000000005,
+      "Text": "Let's say the original signal is Xt and we perform the amplitude scaling in which we"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 41.260000000000005,
+      "End": 47.16,
+      "Text": "multiply beta, where beta is a real number, to the amplitude of the signal Xt."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 47.16,
+      "End": 53.32,
+      "Text": "After the amplitude scaling, let's say the obtained signal or the new signal is Yt and"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 53.32,
+      "End": 59.24,
+      "Text": "it is equal to beta times Xt, where beta is a real number."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 59.24,
+      "End": 63.4,
+      "Text": "Now depending on the value of beta, we have two cases."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 63.4,
+      "End": 73.03999999999999,
+      "Text": "In case number one, in case number one, mod of beta or we can say absolute value of beta"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 73.03999999999999,
+      "End": 75.4,
+      "Text": "is greater than 1."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 75.72,
+      "End": 85.80000000000001,
+      "Text": "Therefore, range of beta is from minus infinity to minus 1, union 1 to infinity."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 85.80000000000001,
+      "End": 93.76,
+      "Text": "This is the range of beta and I will take the original signal which is defined like"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 93.76,
+      "End": 95.58000000000001,
+      "Text": "this."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 95.58000000000001,
+      "End": 99.76,
+      "Text": "It is equal to 0 when time t is less than 0."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 99.76,
+      "End": 106.2,
+      "Text": "It is equal to 2 when time t is less than or equal to 2 and when time t is greater than"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 106.2,
+      "End": 108.0,
+      "Text": "or equal to 0."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 108.0,
+      "End": 111.9,
+      "Text": "It is 0 when time t is greater than 2."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 111.9,
+      "End": 117.36000000000001,
+      "Text": "So this is how the original signal Xt is defined and now I will plot the original signal depending"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 117.36000000000001,
+      "End": 119.4,
+      "Text": "on this information."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 119.4,
+      "End": 125.76,
+      "Text": "This is how the waveform of the original signal Xt will look and now we will perform the amplitude"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 125.76,
+      "End": 131.96,
+      "Text": "scaling, the amplitude scaling in which beta is equal to 2."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 131.96,
+      "End": 138.28,
+      "Text": "So mod of beta, mod of beta is also equal to 2 which is greater than 1."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 138.28,
+      "End": 145.1,
+      "Text": "So this condition is satisfied when beta is equal to 2 and after amplitude scaling, we"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 145.1,
+      "End": 154.20000000000002,
+      "Text": "have the new signal, we have the new signal which is equal to Yt and Yt is equal to beta"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 154.2,
+      "End": 156.56,
+      "Text": "times Xt, beta is equal to 2."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 156.56,
+      "End": 160.83999999999997,
+      "Text": "So Yt is equal to twice of Xt."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 160.83999999999997,
+      "End": 167.28,
+      "Text": "When time t, when time t is equal to 2, you can see Xt is also equal to 2."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 167.28,
+      "End": 175.32,
+      "Text": "So when time t is equal to 2, Xt is 2 and 2 multiplied by 2 is equal to 4."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 175.32,
+      "End": 180.83999999999997,
+      "Text": "So we have 4 as the value of Yt at time t equal to 2."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 180.84,
+      "End": 187.84,
+      "Text": "When time t is equal to 0, you can see Xt is equal to 2 and 2 multiplied by 2 is again"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 187.84,
+      "End": 194.88,
+      "Text": "equal to 4 and during this time interval also, Yt is equal to 4."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 194.88,
+      "End": 199.2,
+      "Text": "So this is how the Yt, the resultant signal will look."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 199.2,
+      "End": 202.24,
+      "Text": "It is having the amplitude equal to 4."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 202.24,
+      "End": 209.04,
+      "Text": "When you compare signal Xt with signal Yt, you can clearly see there is amplification."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 209.04,
+      "End": 215.44,
+      "Text": "The amplitude of the resultant signal is increased and thus this is the case of, case"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 215.44,
+      "End": 224.72,
+      "Text": "number 1 is the case of amplification, amplification and there is one very important thing, in"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 224.72,
+      "End": 231.12,
+      "Text": "case of amplitude scaling, the amplitude of the signal will change but there is no expansion"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 231.12,
+      "End": 232.84,
+      "Text": "or compression of the signal."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 232.84,
+      "End": 235.2,
+      "Text": "This means time will remain same."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 235.2,
+      "End": 238.44,
+      "Text": "There is no expansion or compression of the signal."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 238.44,
+      "End": 243.35999999999999,
+      "Text": "Now we will discuss the case number 2."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 243.35999999999999,
+      "End": 252.16,
+      "Text": "In case number 2, in case number 2, mod of beta or absolute value of beta is less than"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 252.16,
+      "End": 253.16,
+      "Text": "1."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 253.16,
+      "End": 263.88,
+      "Text": "Therefore, range of beta is from minus 1 to 0, union 0 to 1 and this means beta is a number"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 263.88,
+      "End": 268.36,
+      "Text": "like 0.1, 0.7 etc."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 268.36,
+      "End": 270.84,
+      "Text": "It is not an integer."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 270.84,
+      "End": 275.6,
+      "Text": "In this case also, I will take the same original signal Xt."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 275.6,
+      "End": 284.44,
+      "Text": "After this we will perform the amplitude scaling in which beta is equal to 0.5."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 284.44,
+      "End": 288.36,
+      "Text": "Mod of beta is also equal to 0.5 which is less than 1."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 288.36,
+      "End": 298.08000000000004,
+      "Text": "So case number 2 is satisfied and the original signal will now change to a signal in which"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 298.08000000000004,
+      "End": 300.6,
+      "Text": "the amplitude is equal to 1."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 300.6,
+      "End": 307.04,
+      "Text": "The time will remain the same but the amplitude will now decrease to 1 because when you multiply"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 307.04,
+      "End": 314.92,
+      "Text": "2 by 0.5, you will have 1 as the amplitude and the changed signal is Yt which is equal"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 314.92,
+      "End": 318.88,
+      "Text": "to 0.5 Xt."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 318.88,
+      "End": 327.16,
+      "Text": "The x-axis is for time 0, 2 and when you compare the two signals, you will find there is reduction"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 327.16,
+      "End": 328.72,
+      "Text": "in the amplitude."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 328.72,
+      "End": 337.86,
+      "Text": "So this case, case number 2 is the case of, this is the case of reduction."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 337.86,
+      "End": 339.56,
+      "Text": "This is all for this lecture."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 339.56,
+      "End": 344.84,
+      "Text": "I hope both the cases are clear to you, how to perform amplitude scaling on continuous"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 344.84,
+      "End": 345.84,
+      "Text": "time signals."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 345.84,
+      "End": 351.04,
+      "Text": "The same process will be followed when you perform the amplitude scaling of a discrete"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 351.04,
+      "End": 352.04,
+      "Text": "time signal."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 352.04,
+      "End": 356.08,
+      "Text": "That's why I am not covering discrete time signals separately because once you know how"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 356.08,
+      "End": 361.72,
+      "Text": "to perform the scaling, shifting and other operations on continuous time signals, you"
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 361.72,
+      "End": 365.24,
+      "Text": "can easily perform them on discrete time signals."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 365.24,
+      "End": 366.8,
+      "Text": "So this is all for this lecture."
+    },
+    {
+      "Number": "06",
+      "Title": "Amplitude Scaling of Continuous-Time Signals",
+      "Start": 366.8,
+      "End": 367.52,
+      "Text": "See you in the next one."
+    }
+  ],
+  "text": " Scaling of continuous and discrete time signals is of two types. The first one is time scaling and the second one is amplitude scaling. In the previous lecture, we have completed time scaling of continuous time signals and in this lecture, we will discuss amplitude scaling of continuous time signals. In case of amplitude scaling, we multiply the amplitude of a signal by a real number. Let's say the original signal is Xt and we perform the amplitude scaling in which we multiply beta, where beta is a real number, to the amplitude of the signal Xt. After the amplitude scaling, let's say the obtained signal or the new signal is Yt and it is equal to beta times Xt, where beta is a real number. Now depending on the value of beta, we have two cases. In case number one, in case number one, mod of beta or we can say absolute value of beta is greater than 1. Therefore, range of beta is from minus infinity to minus 1, union 1 to infinity. This is the range of beta and I will take the original signal which is defined like this. It is equal to 0 when time t is less than 0. It is equal to 2 when time t is less than or equal to 2 and when time t is greater than or equal to 0. It is 0 when time t is greater than 2. So this is how the original signal Xt is defined and now I will plot the original signal depending on this information. This is how the waveform of the original signal Xt will look and now we will perform the amplitude scaling, the amplitude scaling in which beta is equal to 2. So mod of beta, mod of beta is also equal to 2 which is greater than 1. So this condition is satisfied when beta is equal to 2 and after amplitude scaling, we have the new signal, we have the new signal which is equal to Yt and Yt is equal to beta times Xt, beta is equal to 2. So Yt is equal to twice of Xt. When time t, when time t is equal to 2, you can see Xt is also equal to 2. So when time t is equal to 2, Xt is 2 and 2 multiplied by 2 is equal to 4. So we have 4 as the value of Yt at time t equal to 2. When time t is equal to 0, you can see Xt is equal to 2 and 2 multiplied by 2 is again equal to 4 and during this time interval also, Yt is equal to 4. So this is how the Yt, the resultant signal will look. It is having the amplitude equal to 4. When you compare signal Xt with signal Yt, you can clearly see there is amplification. The amplitude of the resultant signal is increased and thus this is the case of, case number 1 is the case of amplification, amplification and there is one very important thing, in case of amplitude scaling, the amplitude of the signal will change but there is no expansion or compression of the signal. This means time will remain same. There is no expansion or compression of the signal. Now we will discuss the case number 2. In case number 2, in case number 2, mod of beta or absolute value of beta is less than 1. Therefore, range of beta is from minus 1 to 0, union 0 to 1 and this means beta is a number like 0.1, 0.7 etc. It is not an integer. In this case also, I will take the same original signal Xt. After this we will perform the amplitude scaling in which beta is equal to 0.5. Mod of beta is also equal to 0.5 which is less than 1. So case number 2 is satisfied and the original signal will now change to a signal in which the amplitude is equal to 1. The time will remain the same but the amplitude will now decrease to 1 because when you multiply 2 by 0.5, you will have 1 as the amplitude and the changed signal is Yt which is equal to 0.5 Xt. The x-axis is for time 0, 2 and when you compare the two signals, you will find there is reduction in the amplitude. So this case, case number 2 is the case of, this is the case of reduction. This is all for this lecture. I hope both the cases are clear to you, how to perform amplitude scaling on continuous time signals. The same process will be followed when you perform the amplitude scaling of a discrete time signal. That's why I am not covering discrete time signals separately because once you know how to perform the scaling, shifting and other operations on continuous time signals, you can easily perform them on discrete time signals. So this is all for this lecture. See you in the next one."
+}

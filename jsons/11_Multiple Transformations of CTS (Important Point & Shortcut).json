@@ -1,0 +1,950 @@
+{
+  "chunks": [
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 0.0,
+      "End": 4.16,
+      "Text": "In the previous lecture which was multiple transformations of continuous"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 4.16,
+      "End": 9.72,
+      "Text": "time signals, I explained one priority order and that priority order is based"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 9.72,
+      "End": 17.76,
+      "Text": "on three basic operations and the three basic operations are shifting, scaling"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 17.76,
+      "End": 26.96,
+      "Text": "and reversal. In this course of signal and system we are required to study six"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 26.96,
+      "End": 32.36,
+      "Text": "basic operations on signals. Three of them are shifting, scaling and reversal"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 32.36,
+      "End": 39.56,
+      "Text": "and the next three are differentiation, differentiation, integration and"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 39.56,
+      "End": 45.040000000000006,
+      "Text": "convolution. We have already completed shifting, scaling and reversal and these"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 45.040000000000006,
+      "End": 49.44,
+      "Text": "three differentiation, integration and convolution we will cover in the coming"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 49.44,
+      "End": 53.6,
+      "Text": "presentations. Now regarding shifting, scaling and reversal I explained"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 53.6,
+      "End": 57.800000000000004,
+      "Text": "multiple transformations in the last lecture and we also obtained one"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 57.800000000000004,
+      "End": 61.760000000000005,
+      "Text": "priority order. Now regarding that priority order I have received so many"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 61.760000000000005,
+      "End": 65.92,
+      "Text": "questions in the comment section of the previous lecture so it is important to"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 65.92,
+      "End": 71.24000000000001,
+      "Text": "clear the doubt. The priority order is a simple tool which you can use to obtain"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 71.24000000000001,
+      "End": 75.72,
+      "Text": "the answer quickly and the chances of you committing the mistake will reduce"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 75.72,
+      "End": 80.84,
+      "Text": "if you follow the priority order. So the priority order is not the only way to"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 80.84,
+      "End": 85.24000000000001,
+      "Text": "obtain the answers in which the signal is undergoing multiple transformations."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 85.24000000000001,
+      "End": 90.64,
+      "Text": "You may or may not follow the priority order, it is up to you but if you are not"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 90.64,
+      "End": 94.60000000000001,
+      "Text": "following the priority order then your concept should be very clear regarding"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 94.60000000000001,
+      "End": 99.28,
+      "Text": "the multiple transformations. So in this lecture I will explain all the basic"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 99.28,
+      "End": 103.4,
+      "Text": "stuffs required to perform the multiple transformations and at the end of this"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 103.4,
+      "End": 107.2,
+      "Text": "lecture I will explain one shortcut by following which you can easily obtain"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 107.44,
+      "End": 112.36,
+      "Text": "the answer and for this purpose I will take one example. In this example the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 112.36,
+      "End": 118.0,
+      "Text": "input signal is XT and the system you can see on your screen is producing the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 118.0,
+      "End": 129.24,
+      "Text": "output YT which is equal to X2T plus 3. So here this system is producing"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 129.24,
+      "End": 135.16,
+      "Text": "X2T plus 3, the original signal was XT and when you compare XT with X2T plus 3"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 135.32,
+      "End": 140.92,
+      "Text": "you will find the system is transforming the input signal multiple times because"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 140.92,
+      "End": 149.16,
+      "Text": "I can clearly see the involvement of time shifting and also the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 149.16,
+      "End": 155.56,
+      "Text": "involvement of scaling. So we have two different operations and because"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 155.56,
+      "End": 160.35999999999999,
+      "Text": "of this this is the case of multiple transformations. Now the input waveform"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 160.36,
+      "End": 190.20000000000002,
+      "Text": "is already given, the waveform of signal XT is already given. This is minus 1, this is 3, this axis is time axis and it is the waveform of signal XT. Now regarding this example few people will comment why you are not taking complicated examples. If I have a complicated waveform it will not make the example complicated or tough. The tough thing here is to understand the basic"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 190.2,
+      "End": 195.2,
+      "Text": "concept of multiple transformations. So why to waste our time by making some"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 195.2,
+      "End": 199.48,
+      "Text": "complicated waveform to understand the concepts in this course. There are good"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 199.48,
+      "End": 203.51999999999998,
+      "Text": "problems related to topics and we will cover them once we are done with the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 203.51999999999998,
+      "End": 208.51999999999998,
+      "Text": "explanation and also I will create separate playlist for ESE and GATE"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 208.51999999999998,
+      "End": 212.48,
+      "Text": "questions so don't worry about the questions we will solve enough of them."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 212.48,
+      "End": 217.56,
+      "Text": "Now let us begin with the explanation of this problem here. There are three"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 217.6,
+      "End": 224.2,
+      "Text": "different ways to solve this question. In the first method we will first perform"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 224.2,
+      "End": 230.4,
+      "Text": "the time scaling then we will perform the shifting. In the second method we will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 230.4,
+      "End": 235.24,
+      "Text": "first perform the time shifting and then we will perform the time scaling and in"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 235.24,
+      "End": 239.84,
+      "Text": "the third method which is actually the shortcut method we will directly obtain"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 239.84,
+      "End": 244.76,
+      "Text": "the waveform. So let us begin with the method number one. In method number one"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 244.92,
+      "End": 249.88,
+      "Text": "we will first perform the scaling and the next line which I will say is the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 249.88,
+      "End": 254.64,
+      "Text": "most important line of this lecture and you have to remember it to solve any"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 254.64,
+      "End": 258.84,
+      "Text": "kind of multiple transformations question. Whenever you perform any"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 258.84,
+      "End": 265.2,
+      "Text": "transformation you have to look at the x-axis. For example here the x-axis is"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 265.2,
+      "End": 269.2,
+      "Text": "the time axis so whatever transformations you are going to perform"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 269.32,
+      "End": 275.52,
+      "Text": "you have to perform against this time axis. So this is one important line and"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 275.52,
+      "End": 279.64,
+      "Text": "it will be very significant when we will solve the question using the method"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 279.64,
+      "End": 288.36,
+      "Text": "number one. So I will quickly perform the time scaling. We are having signal xt and"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 288.36,
+      "End": 293.56,
+      "Text": "we are performing the time scaling and after this we are getting the signal x"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 294.08,
+      "End": 303.68,
+      "Text": "2t and you already know how to perform the time scaling. The signal will be x2t"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 303.68,
+      "End": 310.36,
+      "Text": "and the x-axis is t so we are simply multiplying 2 to t and in that way we"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 310.36,
+      "End": 319.84000000000003,
+      "Text": "will have a waveform with the same amplitude here let's say the amplitude"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 319.84,
+      "End": 324.52,
+      "Text": "is 1 so this waveform will also have the same amplitude there will be no"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 324.52,
+      "End": 328.52,
+      "Text": "change in the amplitude because we are performing the transformation on the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 328.52,
+      "End": 337.0,
+      "Text": "time only. Here we will have minus 1 divided by 2 which will be minus 0.5 and"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 337.0,
+      "End": 342.4,
+      "Text": "when you divide 3 by 2 you will get 1.5 so what we have done here we have"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 342.4,
+      "End": 348.64,
+      "Text": "divided minus 1 by 2 and 3 by 2 and in that way we obtained minus 0.5 and 1.5"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 349.15999999999997,
+      "End": 352.84,
+      "Text": "the amplitude will remain the same and if you compare the two signals you can"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 352.84,
+      "End": 358.15999999999997,
+      "Text": "clearly see the signal is compressed after performing the time scaling. Now in"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 358.15999999999997,
+      "End": 361.84,
+      "Text": "the next step we will perform the time shifting and the time shifting we will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 361.84,
+      "End": 369.08,
+      "Text": "perform to the signal which we have obtained which is x2t. So x2t after"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 369.08,
+      "End": 379.59999999999997,
+      "Text": "performing the time shifting the time shifting will become x2t plus 3. Now in"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 379.59999999999997,
+      "End": 383.24,
+      "Text": "this step most of the students will commit mistake and if you don't want to"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 383.24,
+      "End": 394.15999999999997,
+      "Text": "have a wrong answer first make the x and y-axis. The y-axis is for x2t plus 3"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 394.16,
+      "End": 400.40000000000003,
+      "Text": "and the x-axis is for time t. Now to have the correct answer always look at"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 400.40000000000003,
+      "End": 407.04,
+      "Text": "the x-axis. The x-axis is for time t. The variable is time t. So you have to"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 407.04,
+      "End": 412.16,
+      "Text": "perform the time shifting which is the operation in the second step against t"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 412.16,
+      "End": 419.40000000000003,
+      "Text": "but here if you see the signal x2t plus 3 you are adding 3 to 2t. This means you"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 419.4,
+      "End": 425.79999999999995,
+      "Text": "are performing the shifting which is the left shift by 3 against 2t but the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 425.79999999999995,
+      "End": 430.56,
+      "Text": "x-axis is t so the shifting should be against t. So most of the students will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 430.56,
+      "End": 435.96,
+      "Text": "simply shift the signal to the left this signal which is x2t to the left by 3"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 435.96,
+      "End": 441.47999999999996,
+      "Text": "and in that way the answer will be wrong because the x-axis is time t-axis and"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 441.47999999999996,
+      "End": 446.0,
+      "Text": "you have to perform all the operations against t. It should be relative to t"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 446.0,
+      "End": 453.72,
+      "Text": "only. So we need to separate this time here and in that way we have x. I will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 453.72,
+      "End": 460.96,
+      "Text": "take 2 common. This will give me t plus 1.5. Now if you see here you will find"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 460.96,
+      "End": 469.56,
+      "Text": "the shifting is performed against time t not 2t and we are performing the left"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 469.56,
+      "End": 475.44,
+      "Text": "shift by 1.5. So let's quickly perform the left shift by 1.5 of the signal"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 475.84,
+      "End": 482.4,
+      "Text": "when you shift minus 0.5 to the left by 1.5 you will get minus 2 and when you"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 482.4,
+      "End": 490.12,
+      "Text": "shift 1.5 to the left by 1.5 you will get 0. So minus 2, 0 and the amplitude"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 490.12,
+      "End": 494.32,
+      "Text": "will be 1. So this is the complete waveform of signal yt and this is the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 494.32,
+      "End": 499.08,
+      "Text": "correct waveform. If you perform this shifting without separating the time t"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 499.08,
+      "End": 503.64,
+      "Text": "you will get the wrong answer. You will get the signal waveform in which the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 503.68,
+      "End": 509.12,
+      "Text": "amplitude is 1 from minus 4 to 0 which is the wrong answer. So let's move to the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 509.12,
+      "End": 513.08,
+      "Text": "method number 3 in which we will perform the time shifting first and then we will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 513.08,
+      "End": 522.64,
+      "Text": "perform the time scaling. The signal is xt and we will perform the time shifting"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 522.64,
+      "End": 528.28,
+      "Text": "first and after performing the time shifting we are getting the signal xt"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 529.28,
+      "End": 535.36,
+      "Text": "Now again you will have confusion in this step. Here we are having 3 added to 2t."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 535.36,
+      "End": 542.52,
+      "Text": "So why we are adding 3 to t? Because when you draw the x and y-axis you will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 542.52,
+      "End": 548.36,
+      "Text": "have a signal waveform against time t. So the shifting we are required to"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 548.36,
+      "End": 553.8,
+      "Text": "perform against the time t. So we will add 3 to time t. The original signal xt"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 553.8,
+      "End": 558.3599999999999,
+      "Text": "is having this plot and when you shift this signal by 3 to the left hand side"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 558.3599999999999,
+      "End": 567.0,
+      "Text": "you will have the waveform like this. So this is the waveform of signal xt plus 3."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 567.0,
+      "End": 573.16,
+      "Text": "In this step also we focused on the x-axis. The variable was t so we perform"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 573.16,
+      "End": 578.56,
+      "Text": "the time shifting against t. Now in step number 2 we will perform the time"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 578.56,
+      "End": 591.64,
+      "Text": "scaling xt plus 3. Time scaling the new signal will be x2t plus 3. In this step"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 591.64,
+      "End": 597.8399999999999,
+      "Text": "there is no problem we are simply multiplying 2 to the time so we can have"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 597.84,
+      "End": 610.32,
+      "Text": "a compressed waveform which is x2t plus 3. The x-axis is t that's why there is no"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 610.32,
+      "End": 615.6800000000001,
+      "Text": "problem we are simply multiplying 2 to the x-axis. In that way we will have a"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 615.6800000000001,
+      "End": 623.2,
+      "Text": "signal which is compressed. When you divide minus 4 by 2 you will get minus 2."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 623.32,
+      "End": 628.32,
+      "Text": "When you divide 0 by 2 you will get 0. Amplitude will be 1. So this is the final"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 628.32,
+      "End": 632.2800000000001,
+      "Text": "waveform of signal yt and if you compare these two waveforms you will find they"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 632.2800000000001,
+      "End": 637.96,
+      "Text": "are same. Okay if you see the range minus 2 to 0 the amplitude is 1. Here also"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 637.96,
+      "End": 642.5600000000001,
+      "Text": "minus 2 to 0 the amplitude is 1. So in this way there is no need to worry about"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 642.5600000000001,
+      "End": 647.6800000000001,
+      "Text": "the priority order. If you understand how we have to take care about the variable"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 647.6800000000001,
+      "End": 652.2800000000001,
+      "Text": "in the x-axis you can easily perform the multiple transformations without"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 652.36,
+      "End": 656.4,
+      "Text": "following the priority order. Now let's talk about the shortcut method the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 656.4,
+      "End": 664.04,
+      "Text": "method number 3 and in this method we will first draw the x and y-axis. The"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 664.04,
+      "End": 672.8,
+      "Text": "y-axis is for the output signal yt and it is equal to x2t plus 3 but we don't"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 672.8,
+      "End": 677.56,
+      "Text": "know how the waveform will look for this signal but we know the waveform of signal"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 677.56,
+      "End": 684.8399999999999,
+      "Text": "xt. Here x is dependent on t and the x-axis is for time t. Here x is dependent"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 684.8399999999999,
+      "End": 693.2399999999999,
+      "Text": "on 2t plus 3 and if we consider the x-axis as 2t plus 3 then the waveform of"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 693.2399999999999,
+      "End": 698.8,
+      "Text": "signal yt will be same as the waveform of signal xt. So let's quickly draw the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 698.8,
+      "End": 704.3599999999999,
+      "Text": "same waveform here but the system is producing the output yt which is the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 704.36,
+      "End": 710.64,
+      "Text": "function of time t only it is not the function of 2t plus 3. So to obtain the"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 710.64,
+      "End": 716.08,
+      "Text": "actual waveform of output signal we need to change the x-axis we need to have t"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 716.08,
+      "End": 722.08,
+      "Text": "here in place of 2t plus 3. In these two answers also you can see the x-axis is"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 722.08,
+      "End": 728.28,
+      "Text": "for time t. So how we can get t from 2t plus 3? It is very simple if we"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 728.28,
+      "End": 734.6,
+      "Text": "subtract 3 from this and divide it by 2 we will have t. So let's do it. We will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 734.6,
+      "End": 742.56,
+      "Text": "subtract 3 from this and this will give us twice of t so we will subtract 3 from"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 742.56,
+      "End": 749.64,
+      "Text": "this. The amplitude will remain same. We will subtract 3 from minus 1 and 3 from 3."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 749.64,
+      "End": 760.0,
+      "Text": "This will give us minus 4 and 0. So we have a new waveform in which the value"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 760.0,
+      "End": 769.88,
+      "Text": "of waveform will remain 1 from minus 4 to 0 and elsewhere it will remain 0."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 769.88,
+      "End": 777.96,
+      "Text": "But still the waveform is not of signal yt because in the x-axis we are"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 777.96,
+      "End": 785.5600000000001,
+      "Text": "having 2t. So to get t we will divide this 2t by 2. We will divide it by 2 and this will give us t."
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 785.5600000000001,
+      "End": 791.24,
+      "Text": "So we will divide minus 4 by 2 and we will divide this 0, this 0 which we have"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 791.24,
+      "End": 798.24,
+      "Text": "obtained here by 2. This will give us minus 2 and this will give us 0. So the new"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 798.24,
+      "End": 807.6,
+      "Text": "waveform will have the amplitude equal to 1 from minus 2 to 0 and elsewhere it"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 807.6800000000001,
+      "End": 813.84,
+      "Text": "will remain 0. And if you see the red waveform, this red waveform, it will be"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 813.84,
+      "End": 818.9200000000001,
+      "Text": "same as the waveforms we have obtained in the earlier two methods. So this is"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 818.9200000000001,
+      "End": 823.0,
+      "Text": "the shortcut. I hope this shortcut is clear to you. We will solve one problem"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 823.0,
+      "End": 826.96,
+      "Text": "based on this shortcut and the two methods we have seen. So if you have any"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 826.96,
+      "End": 830.24,
+      "Text": "doubt regarding the multiple transformations of continuous time"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 830.24,
+      "End": 834.76,
+      "Text": "signals, you may ask in the comment section and in the solved problem number 2, we will"
+    },
+    {
+      "Number": "11",
+      "Title": "Multiple Transformations of CTS (Important Point & Shortcut)",
+      "Start": 834.76,
+      "End": 838.6,
+      "Text": "deal with these three methods."
+    }
+  ],
+  "text": " In the previous lecture which was multiple transformations of continuous time signals, I explained one priority order and that priority order is based on three basic operations and the three basic operations are shifting, scaling and reversal. In this course of signal and system we are required to study six basic operations on signals. Three of them are shifting, scaling and reversal and the next three are differentiation, differentiation, integration and convolution. We have already completed shifting, scaling and reversal and these three differentiation, integration and convolution we will cover in the coming presentations. Now regarding shifting, scaling and reversal I explained multiple transformations in the last lecture and we also obtained one priority order. Now regarding that priority order I have received so many questions in the comment section of the previous lecture so it is important to clear the doubt. The priority order is a simple tool which you can use to obtain the answer quickly and the chances of you committing the mistake will reduce if you follow the priority order. So the priority order is not the only way to obtain the answers in which the signal is undergoing multiple transformations. You may or may not follow the priority order, it is up to you but if you are not following the priority order then your concept should be very clear regarding the multiple transformations. So in this lecture I will explain all the basic stuffs required to perform the multiple transformations and at the end of this lecture I will explain one shortcut by following which you can easily obtain the answer and for this purpose I will take one example. In this example the input signal is XT and the system you can see on your screen is producing the output YT which is equal to X2T plus 3. So here this system is producing X2T plus 3, the original signal was XT and when you compare XT with X2T plus 3 you will find the system is transforming the input signal multiple times because I can clearly see the involvement of time shifting and also the involvement of scaling. So we have two different operations and because of this this is the case of multiple transformations. Now the input waveform is already given, the waveform of signal XT is already given. This is minus 1, this is 3, this axis is time axis and it is the waveform of signal XT. Now regarding this example few people will comment why you are not taking complicated examples. If I have a complicated waveform it will not make the example complicated or tough. The tough thing here is to understand the basic concept of multiple transformations. So why to waste our time by making some complicated waveform to understand the concepts in this course. There are good problems related to topics and we will cover them once we are done with the explanation and also I will create separate playlist for ESE and GATE questions so don't worry about the questions we will solve enough of them. Now let us begin with the explanation of this problem here. There are three different ways to solve this question. In the first method we will first perform the time scaling then we will perform the shifting. In the second method we will first perform the time shifting and then we will perform the time scaling and in the third method which is actually the shortcut method we will directly obtain the waveform. So let us begin with the method number one. In method number one we will first perform the scaling and the next line which I will say is the most important line of this lecture and you have to remember it to solve any kind of multiple transformations question. Whenever you perform any transformation you have to look at the x-axis. For example here the x-axis is the time axis so whatever transformations you are going to perform you have to perform against this time axis. So this is one important line and it will be very significant when we will solve the question using the method number one. So I will quickly perform the time scaling. We are having signal xt and we are performing the time scaling and after this we are getting the signal x 2t and you already know how to perform the time scaling. The signal will be x2t and the x-axis is t so we are simply multiplying 2 to t and in that way we will have a waveform with the same amplitude here let's say the amplitude is 1 so this waveform will also have the same amplitude there will be no change in the amplitude because we are performing the transformation on the time only. Here we will have minus 1 divided by 2 which will be minus 0.5 and when you divide 3 by 2 you will get 1.5 so what we have done here we have divided minus 1 by 2 and 3 by 2 and in that way we obtained minus 0.5 and 1.5 the amplitude will remain the same and if you compare the two signals you can clearly see the signal is compressed after performing the time scaling. Now in the next step we will perform the time shifting and the time shifting we will perform to the signal which we have obtained which is x2t. So x2t after performing the time shifting the time shifting will become x2t plus 3. Now in this step most of the students will commit mistake and if you don't want to have a wrong answer first make the x and y-axis. The y-axis is for x2t plus 3 and the x-axis is for time t. Now to have the correct answer always look at the x-axis. The x-axis is for time t. The variable is time t. So you have to perform the time shifting which is the operation in the second step against t but here if you see the signal x2t plus 3 you are adding 3 to 2t. This means you are performing the shifting which is the left shift by 3 against 2t but the x-axis is t so the shifting should be against t. So most of the students will simply shift the signal to the left this signal which is x2t to the left by 3 and in that way the answer will be wrong because the x-axis is time t-axis and you have to perform all the operations against t. It should be relative to t only. So we need to separate this time here and in that way we have x. I will take 2 common. This will give me t plus 1.5. Now if you see here you will find the shifting is performed against time t not 2t and we are performing the left shift by 1.5. So let's quickly perform the left shift by 1.5 of the signal when you shift minus 0.5 to the left by 1.5 you will get minus 2 and when you shift 1.5 to the left by 1.5 you will get 0. So minus 2, 0 and the amplitude will be 1. So this is the complete waveform of signal yt and this is the correct waveform. If you perform this shifting without separating the time t you will get the wrong answer. You will get the signal waveform in which the amplitude is 1 from minus 4 to 0 which is the wrong answer. So let's move to the method number 3 in which we will perform the time shifting first and then we will perform the time scaling. The signal is xt and we will perform the time shifting first and after performing the time shifting we are getting the signal xt Now again you will have confusion in this step. Here we are having 3 added to 2t. So why we are adding 3 to t? Because when you draw the x and y-axis you will have a signal waveform against time t. So the shifting we are required to perform against the time t. So we will add 3 to time t. The original signal xt is having this plot and when you shift this signal by 3 to the left hand side you will have the waveform like this. So this is the waveform of signal xt plus 3. In this step also we focused on the x-axis. The variable was t so we perform the time shifting against t. Now in step number 2 we will perform the time scaling xt plus 3. Time scaling the new signal will be x2t plus 3. In this step there is no problem we are simply multiplying 2 to the time so we can have a compressed waveform which is x2t plus 3. The x-axis is t that's why there is no problem we are simply multiplying 2 to the x-axis. In that way we will have a signal which is compressed. When you divide minus 4 by 2 you will get minus 2. When you divide 0 by 2 you will get 0. Amplitude will be 1. So this is the final waveform of signal yt and if you compare these two waveforms you will find they are same. Okay if you see the range minus 2 to 0 the amplitude is 1. Here also minus 2 to 0 the amplitude is 1. So in this way there is no need to worry about the priority order. If you understand how we have to take care about the variable in the x-axis you can easily perform the multiple transformations without following the priority order. Now let's talk about the shortcut method the method number 3 and in this method we will first draw the x and y-axis. The y-axis is for the output signal yt and it is equal to x2t plus 3 but we don't know how the waveform will look for this signal but we know the waveform of signal xt. Here x is dependent on t and the x-axis is for time t. Here x is dependent on 2t plus 3 and if we consider the x-axis as 2t plus 3 then the waveform of signal yt will be same as the waveform of signal xt. So let's quickly draw the same waveform here but the system is producing the output yt which is the function of time t only it is not the function of 2t plus 3. So to obtain the actual waveform of output signal we need to change the x-axis we need to have t here in place of 2t plus 3. In these two answers also you can see the x-axis is for time t. So how we can get t from 2t plus 3? It is very simple if we subtract 3 from this and divide it by 2 we will have t. So let's do it. We will subtract 3 from this and this will give us twice of t so we will subtract 3 from this. The amplitude will remain same. We will subtract 3 from minus 1 and 3 from 3. This will give us minus 4 and 0. So we have a new waveform in which the value of waveform will remain 1 from minus 4 to 0 and elsewhere it will remain 0. But still the waveform is not of signal yt because in the x-axis we are having 2t. So to get t we will divide this 2t by 2. We will divide it by 2 and this will give us t. So we will divide minus 4 by 2 and we will divide this 0, this 0 which we have obtained here by 2. This will give us minus 2 and this will give us 0. So the new waveform will have the amplitude equal to 1 from minus 2 to 0 and elsewhere it will remain 0. And if you see the red waveform, this red waveform, it will be same as the waveforms we have obtained in the earlier two methods. So this is the shortcut. I hope this shortcut is clear to you. We will solve one problem based on this shortcut and the two methods we have seen. So if you have any doubt regarding the multiple transformations of continuous time signals, you may ask in the comment section and in the solved problem number 2, we will deal with these three methods."
+}

@@ -1,0 +1,530 @@
+{
+  "chunks": [
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 0.0,
+      "End": 9.48,
+      "Text": "In the last two lectures we have completed addition and multiplication of"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 9.48,
+      "End": 14.280000000000001,
+      "Text": "continuous time signals and in this lecture I will explain time scaling."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 14.280000000000001,
+      "End": 23.92,
+      "Text": "Scaling is of two types. Scaling is of two types. The first one is time scaling"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 23.92,
+      "End": 31.520000000000003,
+      "Text": "and the second one is the amplitude scaling. In this lecture I will explain"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 31.520000000000003,
+      "End": 37.160000000000004,
+      "Text": "time scaling and in the next lecture we will deal with amplitude scaling."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 37.160000000000004,
+      "End": 43.44,
+      "Text": "The compression or expansion of a signal in time is known as time scaling and after"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 43.44,
+      "End": 49.120000000000005,
+      "Text": "scaling the original signal will change. Let's say the original signal is XT and"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 49.64,
+      "End": 57.68,
+      "Text": "after time scaling the changed signal is YT. In time scaling we"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 57.68,
+      "End": 62.76,
+      "Text": "multiply the time by a number which is not equal to zero. This means we will"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 62.76,
+      "End": 69.75999999999999,
+      "Text": "multiply T by a number which is not equal to zero. So YT is equal to X inside"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 69.75999999999999,
+      "End": 74.92,
+      "Text": "the bracket. Let's say the number is alpha multiplied with T. So if you"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 74.92,
+      "End": 81.08,
+      "Text": "compare XT and YT you will find there is difference in time. Here we have T but"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 81.08,
+      "End": 88.72,
+      "Text": "here we have T multiplied by a number alpha which is not equal to zero. So this"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 88.72,
+      "End": 94.48,
+      "Text": "is what we have to do in time scaling and there are two cases. In case number"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 94.48,
+      "End": 103.76,
+      "Text": "one, mod of alpha is greater than one. This means alpha belongs to minus"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 103.76,
+      "End": 111.48,
+      "Text": "infinity to minus one union one to infinity. This is the range of alpha and"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 111.48,
+      "End": 122.4,
+      "Text": "this clearly means alpha is not equal to numbers like 0.1, 0.2, 0.5 etc. So mod of"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 122.4,
+      "End": 127.72,
+      "Text": "alpha is greater than one in case number one and this is the case of time"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 127.72,
+      "End": 132.52,
+      "Text": "compression. You will see why this is the case of time compression when we solve"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 132.68,
+      "End": 143.56,
+      "Text": "one example. In this example I will take signal XT and this signal XT, this"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 143.56,
+      "End": 151.04000000000002,
+      "Text": "signal XT is equal to 2 when time T is less than or equal to 2 and when time T"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 151.04000000000002,
+      "End": 160.52,
+      "Text": "is greater than or equal to 0 and when you plot this you will have a waveform"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 160.52,
+      "End": 168.48000000000002,
+      "Text": "like this. X-axis is for time T, this is 2, this is 0, amplitude is equal to 2 and"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 168.48000000000002,
+      "End": 175.28,
+      "Text": "now we want, now we want to scale the time and let's say alpha is equal to 2."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 175.28,
+      "End": 182.28,
+      "Text": "This means we have to find out X to T because alpha is equal to 2 and it is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 182.28,
+      "End": 191.44,
+      "Text": "very easy to find out X to T. Y-axis is for X to T and X-axis is for time T. You can"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 191.44,
+      "End": 197.2,
+      "Text": "see one thing we have kept the time axis same. Here the time axis is for T and in"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 197.2,
+      "End": 202.28,
+      "Text": "this case also the time axis is for T. Now using this we will find out X to T."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 202.28,
+      "End": 209.72,
+      "Text": "In this waveform you can see when time T is equal to 2, when time T is equal to 2"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 210.08,
+      "End": 218.76,
+      "Text": "this is the value of the signal so X2 is equal to 2 and when time T is equal to 0"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 218.76,
+      "End": 227.36,
+      "Text": "this is the value of the signal so X0 is also equal to 2 and in this case I want"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 227.36,
+      "End": 237.52,
+      "Text": "to calculate X to T when time T is equal to 0. This means X2 multiplied with 0 or"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 237.52,
+      "End": 246.56,
+      "Text": "we can say X0 and X0 is equal to 2 therefore X to T when T is equal to 0 is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 246.56,
+      "End": 255.16000000000003,
+      "Text": "also equal to 2. When T is 0, X to T is equal to 2. Now we will find out X to T"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 255.16000000000003,
+      "End": 264.0,
+      "Text": "when time T is equal to 1. This means X2 multiplied with 1 which is equal to X2"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 264.0,
+      "End": 274.44,
+      "Text": "and X2 is equal to 2 therefore X to T is equal to 2 when time T is equal to 1. So"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 274.44,
+      "End": 281.56,
+      "Text": "when T is equal to 1, the signal is equal to 2. Now we will join these points and"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 281.56,
+      "End": 286.76,
+      "Text": "this is the waveform of the signal X to T. You can see there is compression of"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 286.76,
+      "End": 293.32,
+      "Text": "the signal. In this case this was the waveform and in this case this is the"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 293.32,
+      "End": 297.4,
+      "Text": "waveform and when you compare the two waveforms you will see there is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 297.4,
+      "End": 304.2,
+      "Text": "compression in the waveform. So this case when mod of alpha is greater than 1 is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 304.2,
+      "End": 311.76,
+      "Text": "case of compression. This is case of compression. Now there is one shortcut to"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 311.76,
+      "End": 317.28,
+      "Text": "solve this types of problem. If you see the waveform of signal X to T you will"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 317.28,
+      "End": 326.88,
+      "Text": "find X to T is equal to 2 when time T is less than or equal to 1 and when time T"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 326.88,
+      "End": 338.23999999999995,
+      "Text": "is greater than or equal to 0. If we multiply this by 2 we will have 0, 2T, 2 and"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 338.24,
+      "End": 348.24,
+      "Text": "alpha, alpha was equal to 2 so we can divide 0 by alpha, 2T by alpha and 2 by alpha to get"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 348.24,
+      "End": 354.6,
+      "Text": "this result and you can see XT is having the amplitude equal to 2, X2T is also"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 354.6,
+      "End": 359.6,
+      "Text": "having the amplitude equal to 2. So amplitude remains same in time scaling"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 359.6,
+      "End": 366.0,
+      "Text": "and only the time will change. So to obtain the changed signal we need to do"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 366.12,
+      "End": 371.04,
+      "Text": "two things. First thing is to keep the amplitude same and second thing is to"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 371.04,
+      "End": 380.0,
+      "Text": "divide the alpha T axis by alpha. In this case alpha T axis was 2T and alpha is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 380.0,
+      "End": 387.76,
+      "Text": "equal to 2 so we divided 2T by 2 and it gave us T. We divided 2 by 2 and it gave"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 387.76,
+      "End": 394.68,
+      "Text": "us 1 and dividing 0 by 2 will give us 0. So this is what we have to do in shortcut"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 394.68,
+      "End": 399.72,
+      "Text": "method. This method will be more clear when we will discuss the case number 2."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 399.72,
+      "End": 412.0,
+      "Text": "In case number 2, in case number 2, mod of alpha is less than 1 and alpha is not"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 412.0,
+      "End": 423.56,
+      "Text": "equal to 0. Therefore alpha belongs to minus 1 to 0 union 0 to minus 1. This is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 423.56,
+      "End": 433.92,
+      "Text": "the range of alpha and this means alpha is equal to 0.1, 0.2 etc. So alpha is not"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 433.92,
+      "End": 443.28,
+      "Text": "an integer in case number 2 and case number 2 is the case of expansion. Let's"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 443.28,
+      "End": 449.96,
+      "Text": "take the same signal as in case number 1 and alpha is equal to 0.5. The first"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 449.96,
+      "End": 457.4,
+      "Text": "thing is to keep the amplitude same. We will keep the amplitude same and the"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 457.4,
+      "End": 465.88,
+      "Text": "second thing is to divide the alpha T axis by alpha. Here alpha is equal to 0.5"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 465.88,
+      "End": 476.0,
+      "Text": "so we will divide 0.5T by 0.5. This will give us T. So the x-axis is equal to T and"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 476.0,
+      "End": 483.04,
+      "Text": "then we will divide this 2, we will divide 2 by 0.5 and this will give us 4."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 483.04,
+      "End": 492.2,
+      "Text": "Then we will divide 0 by 0.5 and 0 divided by 0.5 is equal to 0. Now using"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 492.2,
+      "End": 503.0,
+      "Text": "this information we can easily plot the changed signal. X-axis is for T, Y-axis is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 503.0,
+      "End": 509.72,
+      "Text": "for X, 0.5T because alpha is equal to 0.5. We need to keep the amplitude same."
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 509.72,
+      "End": 518.6,
+      "Text": "Amplitude is equal to 2. Therefore X, 0.5T is equal to 2. When time T is less than or"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 518.6,
+      "End": 528.2,
+      "Text": "equal to 4 and when time T is greater than or equal to 0, I will plot this"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 528.2,
+      "End": 536.6800000000001,
+      "Text": "signal. This is 4, this is 0 and the amplitude is equal to 2 and when you"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 536.6800000000001,
+      "End": 543.2,
+      "Text": "compare this signal, this signal with the original signal you will find there is"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 543.2,
+      "End": 549.32,
+      "Text": "expansion. There is expansion of the signal. So case number 2 when mod of alpha"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 549.32,
+      "End": 554.6,
+      "Text": "is less than 1 is the case of expansion. This is all you should know about the"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 554.6,
+      "End": 559.24,
+      "Text": "time scaling. You can also practice few more examples from your book and if you"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 559.24,
+      "End": 562.88,
+      "Text": "have any problem you may ask in the comment section. I will end this lecture"
+    },
+    {
+      "Number": "05",
+      "Title": "Time Scaling of Continuous-Time Signals",
+      "Start": 562.88,
+      "End": 566.24,
+      "Text": "here. See you in the next one."
+    }
+  ],
+  "text": " In the last two lectures we have completed addition and multiplication of continuous time signals and in this lecture I will explain time scaling. Scaling is of two types. Scaling is of two types. The first one is time scaling and the second one is the amplitude scaling. In this lecture I will explain time scaling and in the next lecture we will deal with amplitude scaling. The compression or expansion of a signal in time is known as time scaling and after scaling the original signal will change. Let's say the original signal is XT and after time scaling the changed signal is YT. In time scaling we multiply the time by a number which is not equal to zero. This means we will multiply T by a number which is not equal to zero. So YT is equal to X inside the bracket. Let's say the number is alpha multiplied with T. So if you compare XT and YT you will find there is difference in time. Here we have T but here we have T multiplied by a number alpha which is not equal to zero. So this is what we have to do in time scaling and there are two cases. In case number one, mod of alpha is greater than one. This means alpha belongs to minus infinity to minus one union one to infinity. This is the range of alpha and this clearly means alpha is not equal to numbers like 0.1, 0.2, 0.5 etc. So mod of alpha is greater than one in case number one and this is the case of time compression. You will see why this is the case of time compression when we solve one example. In this example I will take signal XT and this signal XT, this signal XT is equal to 2 when time T is less than or equal to 2 and when time T is greater than or equal to 0 and when you plot this you will have a waveform like this. X-axis is for time T, this is 2, this is 0, amplitude is equal to 2 and now we want, now we want to scale the time and let's say alpha is equal to 2. This means we have to find out X to T because alpha is equal to 2 and it is very easy to find out X to T. Y-axis is for X to T and X-axis is for time T. You can see one thing we have kept the time axis same. Here the time axis is for T and in this case also the time axis is for T. Now using this we will find out X to T. In this waveform you can see when time T is equal to 2, when time T is equal to 2 this is the value of the signal so X2 is equal to 2 and when time T is equal to 0 this is the value of the signal so X0 is also equal to 2 and in this case I want to calculate X to T when time T is equal to 0. This means X2 multiplied with 0 or we can say X0 and X0 is equal to 2 therefore X to T when T is equal to 0 is also equal to 2. When T is 0, X to T is equal to 2. Now we will find out X to T when time T is equal to 1. This means X2 multiplied with 1 which is equal to X2 and X2 is equal to 2 therefore X to T is equal to 2 when time T is equal to 1. So when T is equal to 1, the signal is equal to 2. Now we will join these points and this is the waveform of the signal X to T. You can see there is compression of the signal. In this case this was the waveform and in this case this is the waveform and when you compare the two waveforms you will see there is compression in the waveform. So this case when mod of alpha is greater than 1 is case of compression. This is case of compression. Now there is one shortcut to solve this types of problem. If you see the waveform of signal X to T you will find X to T is equal to 2 when time T is less than or equal to 1 and when time T is greater than or equal to 0. If we multiply this by 2 we will have 0, 2T, 2 and alpha, alpha was equal to 2 so we can divide 0 by alpha, 2T by alpha and 2 by alpha to get this result and you can see XT is having the amplitude equal to 2, X2T is also having the amplitude equal to 2. So amplitude remains same in time scaling and only the time will change. So to obtain the changed signal we need to do two things. First thing is to keep the amplitude same and second thing is to divide the alpha T axis by alpha. In this case alpha T axis was 2T and alpha is equal to 2 so we divided 2T by 2 and it gave us T. We divided 2 by 2 and it gave us 1 and dividing 0 by 2 will give us 0. So this is what we have to do in shortcut method. This method will be more clear when we will discuss the case number 2. In case number 2, in case number 2, mod of alpha is less than 1 and alpha is not equal to 0. Therefore alpha belongs to minus 1 to 0 union 0 to minus 1. This is the range of alpha and this means alpha is equal to 0.1, 0.2 etc. So alpha is not an integer in case number 2 and case number 2 is the case of expansion. Let's take the same signal as in case number 1 and alpha is equal to 0.5. The first thing is to keep the amplitude same. We will keep the amplitude same and the second thing is to divide the alpha T axis by alpha. Here alpha is equal to 0.5 so we will divide 0.5T by 0.5. This will give us T. So the x-axis is equal to T and then we will divide this 2, we will divide 2 by 0.5 and this will give us 4. Then we will divide 0 by 0.5 and 0 divided by 0.5 is equal to 0. Now using this information we can easily plot the changed signal. X-axis is for T, Y-axis is for X, 0.5T because alpha is equal to 0.5. We need to keep the amplitude same. Amplitude is equal to 2. Therefore X, 0.5T is equal to 2. When time T is less than or equal to 4 and when time T is greater than or equal to 0, I will plot this signal. This is 4, this is 0 and the amplitude is equal to 2 and when you compare this signal, this signal with the original signal you will find there is expansion. There is expansion of the signal. So case number 2 when mod of alpha is less than 1 is the case of expansion. This is all you should know about the time scaling. You can also practice few more examples from your book and if you have any problem you may ask in the comment section. I will end this lecture here. See you in the next one."
+}

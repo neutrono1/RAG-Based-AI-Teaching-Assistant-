@@ -1,0 +1,810 @@
+{
+  "chunks": [
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 0.0,
+      "End": 10.08,
+      "Text": "In the previous two lectures we have completed scaling of continuous time signals."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 10.08,
+      "End": 13.040000000000001,
+      "Text": "The next basic operation is shifting."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 13.040000000000001,
+      "End": 18.56,
+      "Text": "Whatever we are going to learn in this lecture we can definitely apply on discrete time signals."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 18.56,
+      "End": 25.18,
+      "Text": "So I will not upload separate lectures on basic operations of discrete time signals."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 25.18,
+      "End": 30.54,
+      "Text": "Shifting is of two types."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 30.54,
+      "End": 37.9,
+      "Text": "The first one is time shifting and the second one is amplitude shifting."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 37.9,
+      "End": 42.239999999999995,
+      "Text": "In this lecture I will explain time shifting and in the next lecture we will deal with"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 42.239999999999995,
+      "End": 43.9,
+      "Text": "amplitude shifting."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 43.9,
+      "End": 52.66,
+      "Text": "Let's say the original signal is xt and after time shifting, after time shifting the new"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 52.66,
+      "End": 55.5,
+      "Text": "signal is equal to yt."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 55.5,
+      "End": 60.14,
+      "Text": "In case of time shifting we add a constant to the time."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 60.14,
+      "End": 63.28,
+      "Text": "Let's say the constant is equal to small k."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 63.28,
+      "End": 71.44,
+      "Text": "So signal yt, the new signal is equal to x inside the bracket t plus k."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 71.44,
+      "End": 77.02,
+      "Text": "So if you compare xt, the original signal with yt, the new signal, you can see there"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 77.02,
+      "End": 78.78,
+      "Text": "is difference in time."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 78.78,
+      "End": 86.18,
+      "Text": "Here we have time t but here we have t plus k and as we are adding k to the time t, k"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 86.18,
+      "End": 92.96000000000001,
+      "Text": "is also a time and it is constant and generally it is given in seconds."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 92.96000000000001,
+      "End": 96.44,
+      "Text": "Now depending on k we have two cases."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 96.44,
+      "End": 107.14,
+      "Text": "In case number 1, in case number 1, k is greater than 0 or we can say k is positive."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 107.14,
+      "End": 113.3,
+      "Text": "The original signal, the original signal xt is defined like this."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 113.3,
+      "End": 117.54,
+      "Text": "It is equal to 0 when time t is less than 0."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 117.54,
+      "End": 124.42,
+      "Text": "It is equal to 2 when time t is less than equal to 2 but it is greater than equal to"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 124.42,
+      "End": 125.42,
+      "Text": "0."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 125.42,
+      "End": 131.42000000000002,
+      "Text": "It is again 0 when time t is greater than 2 and once you plot this, you will have the"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 131.42,
+      "End": 136.78,
+      "Text": "waveform like this and now we will perform the time shifting."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 136.78,
+      "End": 145.22,
+      "Text": "We will perform the time shifting with k equal to plus 2 and as k is equal to plus 2, case"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 145.22,
+      "End": 154.38,
+      "Text": "number 1 is satisfied and we will find out the new signal which is yt."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 154.38,
+      "End": 164.9,
+      "Text": "yt is simply equal to xt plus 2 because k is equal to 2 and we will first see one example."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 164.9,
+      "End": 170.78,
+      "Text": "We will try to understand how we have to perform the time shifting using this example and after"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 170.78,
+      "End": 175.62,
+      "Text": "that we will plot the waveform for the new signal yt."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 175.62,
+      "End": 181.57999999999998,
+      "Text": "In this example, there is a time bomb with timer indicating 10 minutes and this time"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 181.58,
+      "End": 187.54000000000002,
+      "Text": "bomb will explode at 12 minutes."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 187.54000000000002,
+      "End": 193.26000000000002,
+      "Text": "You can see two wires in this time bomb and when you cut the red wire, the bomb will explode"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 193.26000000000002,
+      "End": 194.98000000000002,
+      "Text": "2 minutes earlier."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 194.98000000000002,
+      "End": 201.74,
+      "Text": "The bomb will explode 2 minutes early and when you cut the green wire, the bomb will"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 201.74,
+      "End": 207.8,
+      "Text": "not explode and let's say by mistake you cut the red wire, so what will happen to this"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 207.8,
+      "End": 209.26000000000002,
+      "Text": "time bomb?"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 209.29999999999998,
+      "End": 213.23999999999998,
+      "Text": "As soon as we cut the red wire, the time bomb will explode."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 213.23999999999998,
+      "End": 219.1,
+      "Text": "It was about to explode at 12 minutes but now it is exploding at 10 minutes."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 219.1,
+      "End": 226.82,
+      "Text": "The bomb was about to explode at 12 minutes but now it is exploding at 10 minutes."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 226.82,
+      "End": 234.73999999999998,
+      "Text": "So by cutting the red wire, we are reducing the time by 2 minutes or we can say we are"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 234.74,
+      "End": 238.68,
+      "Text": "adding 2 minutes to the instantaneous time."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 238.68,
+      "End": 245.08,
+      "Text": "10 minutes is the instantaneous time and we are adding 2 minutes by cutting the red wire"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 245.08,
+      "End": 248.64000000000001,
+      "Text": "to the instantaneous time to explode the bomb."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 248.64000000000001,
+      "End": 251.28,
+      "Text": "So let us try to summarize this thing."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 251.28,
+      "End": 258.0,
+      "Text": "When we add 2 minutes to the instantaneous time, the event will occur early by 2 minutes."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 258.0,
+      "End": 263.66,
+      "Text": "Here the event is explosion of the time bomb and in general case we can say that on adding"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 263.66,
+      "End": 268.94,
+      "Text": "the time to the instantaneous time, the events will occur earlier."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 268.94,
+      "End": 276.26000000000005,
+      "Text": "I will use this concept to plot yt, the new signal which is equal to xt plus 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 276.26000000000005,
+      "End": 282.5,
+      "Text": "So here we are adding 2 seconds to the instantaneous time and because of this we will get everything"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 282.5,
+      "End": 284.26000000000005,
+      "Text": "2 seconds early."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 284.26,
+      "End": 290.98,
+      "Text": "In case of original signal xt, when time t is equal to 0, xt is equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 290.98,
+      "End": 295.62,
+      "Text": "When time t is equal to 0, xt is equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 295.62,
+      "End": 302.62,
+      "Text": "This means x of 0 is equal to 2 and in case of new signal yt, we are getting everything"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 302.62,
+      "End": 303.94,
+      "Text": "2 seconds early."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 303.94,
+      "End": 311.5,
+      "Text": "0 is the instantaneous time and 2 seconds early means time t equal to minus 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 311.5,
+      "End": 314.94,
+      "Text": "So y of minus 2 is also equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 314.94,
+      "End": 319.26,
+      "Text": "y of minus 2 is also equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 319.26,
+      "End": 324.94,
+      "Text": "In the same way, when time t is equal to 2, xt is equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 324.94,
+      "End": 330.98,
+      "Text": "So x of 2 is equal to 2 and 2 is the instantaneous time."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 330.98,
+      "End": 335.1,
+      "Text": "So 2 seconds early means t equal to 0."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 335.1,
+      "End": 338.86,
+      "Text": "So y of 0 is equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 338.86,
+      "End": 344.02000000000004,
+      "Text": "Now we have the complete information to plot the waveform of the new signal."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 344.02000000000004,
+      "End": 345.86,
+      "Text": "We will plot it quickly."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 345.86,
+      "End": 354.66,
+      "Text": "When time t, when time t is equal to minus 2, yt is equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 354.66,
+      "End": 359.46000000000004,
+      "Text": "When time t is equal to 0, yt is again equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 359.46000000000004,
+      "End": 365.98,
+      "Text": "I will join these points and the resultant waveform is the waveform of the new signal."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 365.98,
+      "End": 374.3,
+      "Text": "You can clearly see the whole waveform, the whole waveform is shifted to the left by 2"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 374.3,
+      "End": 375.3,
+      "Text": "seconds."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 375.3,
+      "End": 382.74,
+      "Text": "So this case, the case number 1 in which k is greater than 0 is the case of left shifting"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 382.74,
+      "End": 385.18,
+      "Text": "or you can say time advance."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 385.18,
+      "End": 395.74,
+      "Text": "This is the case of left shifting or we can say time advance."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 395.78000000000003,
+      "End": 400.58,
+      "Text": "This case is very important because it creates little bit confusion in our mind."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 400.58,
+      "End": 403.28000000000003,
+      "Text": "You can see we are adding 2 seconds to the time."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 403.28000000000003,
+      "End": 409.82,
+      "Text": "So generally it feels like the signal will move forward or you can say the signal will"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 409.82,
+      "End": 415.52,
+      "Text": "be delayed but in reality the signal will be advanced depending on the value of k."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 415.52,
+      "End": 420.02,
+      "Text": "Now we will move to the next case of the time shifting."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 420.02,
+      "End": 431.5,
+      "Text": "In this case, in case number 2, small k is less than 0 or we can say small k is negative."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 431.5,
+      "End": 435.59999999999997,
+      "Text": "We will take another example to understand the case number 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 435.59999999999997,
+      "End": 447.21999999999997,
+      "Text": "In this example, I will take the original signal xt which is equal to 3, which is equal"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 447.22,
+      "End": 455.34000000000003,
+      "Text": "to 3 when time t is equal to 0 and it is equal to 0 when time t is equal to minus 2"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 455.34000000000003,
+      "End": 459.74,
+      "Text": "and it is again equal to 0 when time t is equal to 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 459.74,
+      "End": 465.48,
+      "Text": "I will join these points and this is how the original signal xt will look."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 465.48,
+      "End": 475.06,
+      "Text": "Now we will perform, we will perform the time shifting with small k equal to minus 2."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 475.06,
+      "End": 481.62,
+      "Text": "Small k is negative so case number 2 is satisfied and as I have already explained you, when"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 481.62,
+      "End": 488.18,
+      "Text": "we add the time to the instantaneous time, we will get everything early but when we subtract"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 488.18,
+      "End": 494.78,
+      "Text": "the time from the instantaneous time, everything will be delayed and the new signal, the new"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 494.78,
+      "End": 507.05999999999995,
+      "Text": "signal yt is equal to, yt is equal to x inside the bracket t minus 2 because k is equal to"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 507.05999999999995,
+      "End": 513.98,
+      "Text": "minus 2 so in this case we are subtracting 2 seconds from the instantaneous time so we"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 513.98,
+      "End": 517.14,
+      "Text": "will get everything 2 seconds later."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 517.14,
+      "End": 523.26,
+      "Text": "So the waveform will look like this."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 523.26,
+      "End": 532.1,
+      "Text": "When time t is equal to 0, we will have yt equal to 0, when time t is equal to 2, when"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 532.1,
+      "End": 543.1,
+      "Text": "time t is equal to 2, yt is equal to 3, when time t is equal to 4, yt is equal to 0 and"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 543.1,
+      "End": 548.74,
+      "Text": "when we compare the original signal with the new signal, we can see the whole waveform"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 548.74,
+      "End": 550.5,
+      "Text": "is shifted to the right."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 550.5,
+      "End": 556.14,
+      "Text": "So case number 2, when k is less than 0 is the case of right shifting, this is the case"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 556.14,
+      "End": 568.58,
+      "Text": "of right shifting or we can say this is the case of time delay, this is the case of time"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 568.58,
+      "End": 575.26,
+      "Text": "delay, in this case we are getting everything 2 seconds later or we can say everything is"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 575.26,
+      "End": 577.5,
+      "Text": "delayed by 2 seconds."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 577.5,
+      "End": 582.58,
+      "Text": "So this lecture is very important if we talk about the basic operations on continuous time"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 582.58,
+      "End": 585.4000000000001,
+      "Text": "signals because it is little bit confusing."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 585.4000000000001,
+      "End": 590.4200000000001,
+      "Text": "In this case you can see we are subtracting 2 seconds from the instantaneous time so our"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 590.42,
+      "End": 599.54,
+      "Text": "general instinct will tell us that this waveform will be shifted like this by 2 seconds but"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 599.54,
+      "End": 602.9,
+      "Text": "in reality it is shifted like this."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 602.9,
+      "End": 607.74,
+      "Text": "In case of time shifting, shape of the waveform remains the same, you can see the shape of"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 607.74,
+      "End": 614.26,
+      "Text": "the waveform is similar, only the signal is shifted to the left or to the right."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 614.26,
+      "End": 616.66,
+      "Text": "So shape will not change in time shifting."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 616.9,
+      "End": 623.98,
+      "Text": "Advancing the signal is not possible in real time, if we talk about the case number 1,"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 623.98,
+      "End": 629.74,
+      "Text": "in this case there is advancement in the signal, advancing the signal is not possible in real"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 629.74,
+      "End": 634.74,
+      "Text": "time but it is possible when the signal is recorded."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 634.74,
+      "End": 640.5,
+      "Text": "So we can advance the signal only when we have the recorded signal or we have the idea"
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 640.5,
+      "End": 642.54,
+      "Text": "or knowledge of the signal."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 642.54,
+      "End": 646.04,
+      "Text": "So in real time we cannot advance the signal."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 646.04,
+      "End": 649.9,
+      "Text": "This is all for this lecture, if you have any doubt you may ask in the comment section."
+    },
+    {
+      "Number": "07",
+      "Title": "Time Shifting of Continuous-Time Signals",
+      "Start": 649.9,
+      "End": 653.1999999999999,
+      "Text": "In the next lecture I will explain the amplitude shifting."
+    }
+  ],
+  "text": " In the previous two lectures we have completed scaling of continuous time signals. The next basic operation is shifting. Whatever we are going to learn in this lecture we can definitely apply on discrete time signals. So I will not upload separate lectures on basic operations of discrete time signals. Shifting is of two types. The first one is time shifting and the second one is amplitude shifting. In this lecture I will explain time shifting and in the next lecture we will deal with amplitude shifting. Let's say the original signal is xt and after time shifting, after time shifting the new signal is equal to yt. In case of time shifting we add a constant to the time. Let's say the constant is equal to small k. So signal yt, the new signal is equal to x inside the bracket t plus k. So if you compare xt, the original signal with yt, the new signal, you can see there is difference in time. Here we have time t but here we have t plus k and as we are adding k to the time t, k is also a time and it is constant and generally it is given in seconds. Now depending on k we have two cases. In case number 1, in case number 1, k is greater than 0 or we can say k is positive. The original signal, the original signal xt is defined like this. It is equal to 0 when time t is less than 0. It is equal to 2 when time t is less than equal to 2 but it is greater than equal to 0. It is again 0 when time t is greater than 2 and once you plot this, you will have the waveform like this and now we will perform the time shifting. We will perform the time shifting with k equal to plus 2 and as k is equal to plus 2, case number 1 is satisfied and we will find out the new signal which is yt. yt is simply equal to xt plus 2 because k is equal to 2 and we will first see one example. We will try to understand how we have to perform the time shifting using this example and after that we will plot the waveform for the new signal yt. In this example, there is a time bomb with timer indicating 10 minutes and this time bomb will explode at 12 minutes. You can see two wires in this time bomb and when you cut the red wire, the bomb will explode 2 minutes earlier. The bomb will explode 2 minutes early and when you cut the green wire, the bomb will not explode and let's say by mistake you cut the red wire, so what will happen to this time bomb? As soon as we cut the red wire, the time bomb will explode. It was about to explode at 12 minutes but now it is exploding at 10 minutes. The bomb was about to explode at 12 minutes but now it is exploding at 10 minutes. So by cutting the red wire, we are reducing the time by 2 minutes or we can say we are adding 2 minutes to the instantaneous time. 10 minutes is the instantaneous time and we are adding 2 minutes by cutting the red wire to the instantaneous time to explode the bomb. So let us try to summarize this thing. When we add 2 minutes to the instantaneous time, the event will occur early by 2 minutes. Here the event is explosion of the time bomb and in general case we can say that on adding the time to the instantaneous time, the events will occur earlier. I will use this concept to plot yt, the new signal which is equal to xt plus 2. So here we are adding 2 seconds to the instantaneous time and because of this we will get everything 2 seconds early. In case of original signal xt, when time t is equal to 0, xt is equal to 2. When time t is equal to 0, xt is equal to 2. This means x of 0 is equal to 2 and in case of new signal yt, we are getting everything 2 seconds early. 0 is the instantaneous time and 2 seconds early means time t equal to minus 2. So y of minus 2 is also equal to 2. y of minus 2 is also equal to 2. In the same way, when time t is equal to 2, xt is equal to 2. So x of 2 is equal to 2 and 2 is the instantaneous time. So 2 seconds early means t equal to 0. So y of 0 is equal to 2. Now we have the complete information to plot the waveform of the new signal. We will plot it quickly. When time t, when time t is equal to minus 2, yt is equal to 2. When time t is equal to 0, yt is again equal to 2. I will join these points and the resultant waveform is the waveform of the new signal. You can clearly see the whole waveform, the whole waveform is shifted to the left by 2 seconds. So this case, the case number 1 in which k is greater than 0 is the case of left shifting or you can say time advance. This is the case of left shifting or we can say time advance. This case is very important because it creates little bit confusion in our mind. You can see we are adding 2 seconds to the time. So generally it feels like the signal will move forward or you can say the signal will be delayed but in reality the signal will be advanced depending on the value of k. Now we will move to the next case of the time shifting. In this case, in case number 2, small k is less than 0 or we can say small k is negative. We will take another example to understand the case number 2. In this example, I will take the original signal xt which is equal to 3, which is equal to 3 when time t is equal to 0 and it is equal to 0 when time t is equal to minus 2 and it is again equal to 0 when time t is equal to 2. I will join these points and this is how the original signal xt will look. Now we will perform, we will perform the time shifting with small k equal to minus 2. Small k is negative so case number 2 is satisfied and as I have already explained you, when we add the time to the instantaneous time, we will get everything early but when we subtract the time from the instantaneous time, everything will be delayed and the new signal, the new signal yt is equal to, yt is equal to x inside the bracket t minus 2 because k is equal to minus 2 so in this case we are subtracting 2 seconds from the instantaneous time so we will get everything 2 seconds later. So the waveform will look like this. When time t is equal to 0, we will have yt equal to 0, when time t is equal to 2, when time t is equal to 2, yt is equal to 3, when time t is equal to 4, yt is equal to 0 and when we compare the original signal with the new signal, we can see the whole waveform is shifted to the right. So case number 2, when k is less than 0 is the case of right shifting, this is the case of right shifting or we can say this is the case of time delay, this is the case of time delay, in this case we are getting everything 2 seconds later or we can say everything is delayed by 2 seconds. So this lecture is very important if we talk about the basic operations on continuous time signals because it is little bit confusing. In this case you can see we are subtracting 2 seconds from the instantaneous time so our general instinct will tell us that this waveform will be shifted like this by 2 seconds but in reality it is shifted like this. In case of time shifting, shape of the waveform remains the same, you can see the shape of the waveform is similar, only the signal is shifted to the left or to the right. So shape will not change in time shifting. Advancing the signal is not possible in real time, if we talk about the case number 1, in this case there is advancement in the signal, advancing the signal is not possible in real time but it is possible when the signal is recorded. So we can advance the signal only when we have the recorded signal or we have the idea or knowledge of the signal. So in real time we cannot advance the signal. This is all for this lecture, if you have any doubt you may ask in the comment section. In the next lecture I will explain the amplitude shifting."
+}

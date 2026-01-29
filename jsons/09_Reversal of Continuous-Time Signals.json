@@ -1,0 +1,299 @@
+{
+  "chunks": [
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 0.0,
+      "End": 10.32,
+      "Text": "In this lecture I will explain reversal of continuous time signals. There are two"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 10.32,
+      "End": 18.2,
+      "Text": "types of reversals. There are two types of reversals and the first type is time"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 18.2,
+      "End": 24.76,
+      "Text": "reversal. The first type is time reversal and the second type is amplitude"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 24.76,
+      "End": 31.44,
+      "Text": "reversal. Time reversal is a special case of time scaling with alpha equal to"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 31.44,
+      "End": 44.8,
+      "Text": "minus 1. Time reversal is a special case of time scaling with alpha equal to"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 44.8,
+      "End": 52.760000000000005,
+      "Text": "minus 1 and let's say let's say the original signal is XT and after time"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 52.76,
+      "End": 61.8,
+      "Text": "scaling after time scaling the new signal is YT which is equal to X inside"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 61.8,
+      "End": 67.6,
+      "Text": "the bracket alpha T. This is what we have studied in the lecture of time scaling"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 67.6,
+      "End": 75.08,
+      "Text": "and as in case of time reversal alpha is equal to minus 1 the new signal YT is"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 75.76,
+      "End": 83.03999999999999,
+      "Text": "simply equal to X minus T. So in case of time reversal, in case of time reversal"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 83.03999999999999,
+      "End": 91.36,
+      "Text": "the original signal is XT and after time reversal I will denote time reversal by"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 91.36,
+      "End": 99.75999999999999,
+      "Text": "TR. After time reversal the new signal is X of minus T. So this is what we have to"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 99.76,
+      "End": 107.2,
+      "Text": "do in case of time reversal and let's take let's take one signal to understand"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 107.2,
+      "End": 116.64,
+      "Text": "the time reversal. This signal is the original signal X-axis is for time and"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 116.64,
+      "End": 125.16000000000001,
+      "Text": "this is the waveform of the original signal 0, 2 and 2 is the amplitude. Now we"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 125.16,
+      "End": 134.04,
+      "Text": "will perform the time reversal and the new signal the new signal YT is equal to"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 134.04,
+      "End": 143.4,
+      "Text": "X minus T. YT is equal to X minus T. This axis is for time and if we talk about"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 143.4,
+      "End": 152.48,
+      "Text": "the original signal then original signal XT is defined like this. XT is equal to"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 152.48,
+      "End": 163.64,
+      "Text": "0 when time T is less than 0, 2 when time T is less than equal to 2 and greater than equal to"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 163.64,
+      "End": 170.35999999999999,
+      "Text": "0 and it is again 0 when time T is greater than 2 and we are performing time reversal."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 170.35999999999999,
+      "End": 181.72,
+      "Text": "We are performing time reversal or we can say time scaling, time scaling with alpha"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 181.72,
+      "End": 190.07999999999998,
+      "Text": "equal to minus 1 with alpha equal to minus 1 and in case of time scaling the"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 190.07999999999998,
+      "End": 196.56,
+      "Text": "amplitude of new signal YT will remain same as the amplitude of old signal or"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 196.56,
+      "End": 205.52,
+      "Text": "the original signal XT. So YT, YT which is equal to X minus T will have the same"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 205.52,
+      "End": 235.24,
+      "Text": "amplitude as XT so we will have 0, 2, 0 but in place of T we will have minus T so minus T less than 0, minus T less than equal to 2, greater than equal to 0 and minus T greater than 2. Now I will divide both the sides of the inequality by minus 1 and whenever we divide or multiply an inequality by a negative number"
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 235.84,
+      "End": 264.32,
+      "Text": "the inequality will reverse so we have T greater than 0 because 0 divided by minus 1 is equal to 0 then we have 0 greater than equal to T greater than equal to minus 2 and then we have T less than minus 2. Now by using this condition we can easily plot the waveform and the waveform will look something like this."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 264.32,
+      "End": 294.28,
+      "Text": "This is minus 2, this is 0 and the amplitude is equal to 2 and when you compare the original signal with the new signal you will see the new signal is simply the reflection of the original signal about the Y axis or we can say we will get the new signal by folding the original signal by folding the original signal about the Y axis or we can say the new signal is simply the mirror image of the Y axis."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 294.52,
+      "End": 311.32,
+      "Text": "of the original signal about the Y axis. So every time we will not perform this calculations we will simply fold the original signal about the Y axis and because of this reason time reversal is also called as folding or reflection."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 311.32,
+      "End": 332.32,
+      "Text": "Time reversal is also called as folding or reflection. So whenever in exam you have question on folding or reflection you have to simply perform the time reversal. Now we will solve one more example based on time reversal."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 332.32,
+      "End": 361.32,
+      "Text": "I will take the original signal. The original signal is XT and it is having the waveform like this. This is 0, this is 3 and to find out X of minus T which is the new signal in case of time reversal we have to simply take the mirror image of this waveform and we will take the mirror image about the Y axis."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 362.32,
+      "End": 382.32,
+      "Text": "So the new signal will look like this. This waveform is for X of minus T. The amplitude is 0 at 0 and the amplitude is again equal to 0 at minus 3. So this is how you have to perform the time reversal."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 382.32,
+      "End": 403.32,
+      "Text": "Now we will move to the next type of reversal which is the amplitude reversal. In case of amplitude reversal we have to perform the amplitude scaling with beta equal to minus 1."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 404.32,
+      "End": 429.32,
+      "Text": "So we can say that amplitude reversal is a special case of amplitude scaling with beta equal to minus 1. If XT is the original signal and we perform the amplitude scaling then the new signal YT is simply equal to beta times XT but in case of amplitude reversal beta is equal to minus 1."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 429.32,
+      "End": 446.32,
+      "Text": "So the new signal YT is equal to minus XT or we can say after performing the amplitude reversal the original signal is now changed to minus of XT."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 446.32,
+      "End": 463.32,
+      "Text": "So this is what we have to do in amplitude reversal and if we take the same signal, same original signal which is defined like this then we can easily find out minus of XT."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 463.32,
+      "End": 481.32,
+      "Text": "In case of amplitude scaling the time remains the same but the amplitude changes. So we will change the amplitude and the amplitude will change by multiplying minus 1 to the amplitude of XT."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 481.32,
+      "End": 501.32,
+      "Text": "So we have 0 minus 1 multiplied by 0 is equal to 0 when time T is less than 0 then we have minus 2 when T is less than or equal to 2 greater than or equal to 0 again we have 0 when T is greater than 2."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 501.32,
+      "End": 525.3199999999999,
+      "Text": "So this is what we have in case of amplitude reversal and we can easily plot this signal. The waveform of minus XT, X axis is for time T, the plot will look like this 0, 2, minus 2."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 525.32,
+      "End": 542.32,
+      "Text": "So you can see in case of amplitude reversal the waveform of the new signal is simply the waveform of the original signal folded about the X axis. If I draw the waveform of the original signal then it will look like this."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 542.32,
+      "End": 563.32,
+      "Text": "This is the waveform of XT and if we fold this waveform about the X axis we will have this waveform. So in case of amplitude reversal we have to fold the waveform about the X axis and in case of time reversal we have to fold the waveform about the Y axis."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 564.32,
+      "End": 578.32,
+      "Text": "So this is all for this lecture. These basic things are very important. You should know how we are getting the mirror image of the waveform and after this we can directly use the property of folding or reflection in the problem."
+    },
+    {
+      "Number": "09",
+      "Title": "Reversal of Continuous-Time Signals",
+      "Start": 578.32,
+      "End": 600.32,
+      "Text": "But we must know why we are folding the waveform or getting the reflection about the Y axis in case of time reversal and we are folding the waveform or getting the reflection about the X axis in case of amplitude reversal. So this is all. If you have any doubt you may ask in the comment section."
+    }
+  ],
+  "text": " In this lecture I will explain reversal of continuous time signals. There are two types of reversals. There are two types of reversals and the first type is time reversal. The first type is time reversal and the second type is amplitude reversal. Time reversal is a special case of time scaling with alpha equal to minus 1. Time reversal is a special case of time scaling with alpha equal to minus 1 and let's say let's say the original signal is XT and after time scaling after time scaling the new signal is YT which is equal to X inside the bracket alpha T. This is what we have studied in the lecture of time scaling and as in case of time reversal alpha is equal to minus 1 the new signal YT is simply equal to X minus T. So in case of time reversal, in case of time reversal the original signal is XT and after time reversal I will denote time reversal by TR. After time reversal the new signal is X of minus T. So this is what we have to do in case of time reversal and let's take let's take one signal to understand the time reversal. This signal is the original signal X-axis is for time and this is the waveform of the original signal 0, 2 and 2 is the amplitude. Now we will perform the time reversal and the new signal the new signal YT is equal to X minus T. YT is equal to X minus T. This axis is for time and if we talk about the original signal then original signal XT is defined like this. XT is equal to 0 when time T is less than 0, 2 when time T is less than equal to 2 and greater than equal to 0 and it is again 0 when time T is greater than 2 and we are performing time reversal. We are performing time reversal or we can say time scaling, time scaling with alpha equal to minus 1 with alpha equal to minus 1 and in case of time scaling the amplitude of new signal YT will remain same as the amplitude of old signal or the original signal XT. So YT, YT which is equal to X minus T will have the same amplitude as XT so we will have 0, 2, 0 but in place of T we will have minus T so minus T less than 0, minus T less than equal to 2, greater than equal to 0 and minus T greater than 2. Now I will divide both the sides of the inequality by minus 1 and whenever we divide or multiply an inequality by a negative number the inequality will reverse so we have T greater than 0 because 0 divided by minus 1 is equal to 0 then we have 0 greater than equal to T greater than equal to minus 2 and then we have T less than minus 2. Now by using this condition we can easily plot the waveform and the waveform will look something like this. This is minus 2, this is 0 and the amplitude is equal to 2 and when you compare the original signal with the new signal you will see the new signal is simply the reflection of the original signal about the Y axis or we can say we will get the new signal by folding the original signal by folding the original signal about the Y axis or we can say the new signal is simply the mirror image of the Y axis. of the original signal about the Y axis. So every time we will not perform this calculations we will simply fold the original signal about the Y axis and because of this reason time reversal is also called as folding or reflection. Time reversal is also called as folding or reflection. So whenever in exam you have question on folding or reflection you have to simply perform the time reversal. Now we will solve one more example based on time reversal. I will take the original signal. The original signal is XT and it is having the waveform like this. This is 0, this is 3 and to find out X of minus T which is the new signal in case of time reversal we have to simply take the mirror image of this waveform and we will take the mirror image about the Y axis. So the new signal will look like this. This waveform is for X of minus T. The amplitude is 0 at 0 and the amplitude is again equal to 0 at minus 3. So this is how you have to perform the time reversal. Now we will move to the next type of reversal which is the amplitude reversal. In case of amplitude reversal we have to perform the amplitude scaling with beta equal to minus 1. So we can say that amplitude reversal is a special case of amplitude scaling with beta equal to minus 1. If XT is the original signal and we perform the amplitude scaling then the new signal YT is simply equal to beta times XT but in case of amplitude reversal beta is equal to minus 1. So the new signal YT is equal to minus XT or we can say after performing the amplitude reversal the original signal is now changed to minus of XT. So this is what we have to do in amplitude reversal and if we take the same signal, same original signal which is defined like this then we can easily find out minus of XT. In case of amplitude scaling the time remains the same but the amplitude changes. So we will change the amplitude and the amplitude will change by multiplying minus 1 to the amplitude of XT. So we have 0 minus 1 multiplied by 0 is equal to 0 when time T is less than 0 then we have minus 2 when T is less than or equal to 2 greater than or equal to 0 again we have 0 when T is greater than 2. So this is what we have in case of amplitude reversal and we can easily plot this signal. The waveform of minus XT, X axis is for time T, the plot will look like this 0, 2, minus 2. So you can see in case of amplitude reversal the waveform of the new signal is simply the waveform of the original signal folded about the X axis. If I draw the waveform of the original signal then it will look like this. This is the waveform of XT and if we fold this waveform about the X axis we will have this waveform. So in case of amplitude reversal we have to fold the waveform about the X axis and in case of time reversal we have to fold the waveform about the Y axis. So this is all for this lecture. These basic things are very important. You should know how we are getting the mirror image of the waveform and after this we can directly use the property of folding or reflection in the problem. But we must know why we are folding the waveform or getting the reflection about the Y axis in case of time reversal and we are folding the waveform or getting the reflection about the X axis in case of amplitude reversal. So this is all. If you have any doubt you may ask in the comment section."
+}

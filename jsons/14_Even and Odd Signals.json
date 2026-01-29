@@ -1,0 +1,677 @@
+{
+  "chunks": [
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 0.0,
+      "End": 10.72,
+      "Text": "We have completed various operations of continuous time signals and now we will study different"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 10.72,
+      "End": 13.44,
+      "Text": "types of continuous time signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 13.44,
+      "End": 18.56,
+      "Text": "In this lecture I will explain what are even signals and what are odd signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 18.56,
+      "End": 23.52,
+      "Text": "Based on symmetry of this signal, when time is reversed we can classify signals into two"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 23.52,
+      "End": 24.560000000000002,
+      "Text": "types."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 24.560000000000002,
+      "End": 28.32,
+      "Text": "The first one is even signal and the second one is odd signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 28.32,
+      "End": 35.0,
+      "Text": "So when we perform the time reversal and based on symmetry of the obtained signal we can"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 35.0,
+      "End": 38.32,
+      "Text": "broadly classify signal in these two types."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 38.32,
+      "End": 40.92,
+      "Text": "I will first explain even signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 40.92,
+      "End": 47.08,
+      "Text": "The signals which remain identical under folding operation are called as even signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 47.08,
+      "End": 55.86,
+      "Text": "So when we perform the folding operation which is also called as time reversal or reflection."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 55.86,
+      "End": 61.38,
+      "Text": "So when we perform folding, time reversal or reflection of the signal and the signal"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 61.38,
+      "End": 67.62,
+      "Text": "remains same, identical means same, then we call such signal even signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 67.62,
+      "End": 71.1,
+      "Text": "Lets try to understand this in terms of symmetry."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 71.1,
+      "End": 77.18,
+      "Text": "The signals which are symmetrical or mirror image about the y axis are called as even"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 77.18,
+      "End": 78.18,
+      "Text": "signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 78.18,
+      "End": 80.82,
+      "Text": "We will prove this statement after some time."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 80.82,
+      "End": 90.02,
+      "Text": "Lets say the original signal is xt and we will perform the time reversal on this signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 90.02,
+      "End": 97.1,
+      "Text": "So the obtained signal is simply x of minus t because we have minus of t in case of time"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 97.1,
+      "End": 103.97999999999999,
+      "Text": "reversal in place of t and according to the definition of even signals x of minus t is"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 103.97999999999999,
+      "End": 107.46,
+      "Text": "equal to xt which is the original signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 107.46,
+      "End": 116.94,
+      "Text": "So this is what we have in case of even signals x of minus t is equal to x of t and this must"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 116.94,
+      "End": 121.46,
+      "Text": "be true for all the values of time t."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 121.46,
+      "End": 127.82,
+      "Text": "So we had signal xt and after performing the time reversal we again have the signal xt."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 127.82,
+      "End": 131.79999999999998,
+      "Text": "Now we will see few examples of even signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 131.8,
+      "End": 145.20000000000002,
+      "Text": "In the first example we have the waveform of signal xt which is triangular like this."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 145.20000000000002,
+      "End": 149.64000000000001,
+      "Text": "Lets say this is minus a and this is a, the amplitude is equal to a."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 149.64000000000001,
+      "End": 156.48000000000002,
+      "Text": "When you perform the time reversal you will have x of minus t which is exactly same as"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 156.48000000000002,
+      "End": 157.48000000000002,
+      "Text": "x of t."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 157.88,
+      "End": 163.16,
+      "Text": "When you fold this waveform you will have the same waveform so x of minus t will have"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 163.16,
+      "End": 167.04,
+      "Text": "the same waveform and this is the example of even signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 167.04,
+      "End": 179.48,
+      "Text": "In second example, in second example we have the waveform like this and when we perform"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 179.48,
+      "End": 187.39999999999998,
+      "Text": "the folding we will have the identical waveform so x of minus t will have the same waveform."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 188.32,
+      "End": 195.32,
+      "Text": "The third example, the third example is x of t equal to cos omega t."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 195.32,
+      "End": 202.92000000000002,
+      "Text": "Cos omega t is the even signal because when we have, when we have minus t in place of"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 202.92000000000002,
+      "End": 215.68,
+      "Text": "t, x of minus t, x of minus t is equal to cos minus omega t and cos minus theta is equal"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 215.68,
+      "End": 216.98000000000002,
+      "Text": "to cos theta."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 216.98,
+      "End": 225.29999999999998,
+      "Text": "So cos minus omega t is simply equal to cos omega t which is equal to xt."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 225.29999999999998,
+      "End": 232.85999999999999,
+      "Text": "So x of minus t is equal to xt so this signal cos omega t is satisfying the condition of"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 232.85999999999999,
+      "End": 242.5,
+      "Text": "the even signals and when we plot the waveform of cos omega t it will look something like"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 242.5,
+      "End": 253.82,
+      "Text": "this and you can see this waveform is mirror image about the y axis or we can say this"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 253.82,
+      "End": 257.54,
+      "Text": "waveform is symmetrical about the y axis."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 257.54,
+      "End": 264.3,
+      "Text": "So in case of even signals we have the symmetrical waveform or mirror image about the y axis."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 264.3,
+      "End": 271.82,
+      "Text": "In this signal also you can see the waveform is mirror image about the y axis."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 271.82,
+      "End": 275.21999999999997,
+      "Text": "Now we will talk about the odd signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 275.21999999999997,
+      "End": 281.38,
+      "Text": "The signals which does not remain identical under folding operation are called as odd"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 281.38,
+      "End": 286.46,
+      "Text": "signals so this condition is not true in case of odd signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 286.46,
+      "End": 290.86,
+      "Text": "X of minus t is not equal to x of t."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 290.86,
+      "End": 294.98,
+      "Text": "Odd signals are anti-symmetrical about the y axis."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 294.98,
+      "End": 301.3,
+      "Text": "Now let us try to understand what do we mean by anti-symmetrical signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 301.3,
+      "End": 308.3,
+      "Text": "We will perform the time reversal of the signal xt and the signal xt is having the"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 308.3,
+      "End": 311.22,
+      "Text": "waveform like this."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 311.22,
+      "End": 321.02,
+      "Text": "This axis is the y axis and in case of odd signals we have anti-symmetrical waveform"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 321.02,
+      "End": 322.76,
+      "Text": "about the y axis."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 322.76,
+      "End": 329.46000000000004,
+      "Text": "When we perform the time reversal this means when we try to find out x of minus t we will"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 329.46,
+      "End": 342.46,
+      "Text": "have the waveform like this and this waveform represents minus xt or we can write x of t"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 342.46,
+      "End": 346.02,
+      "Text": "is equal to minus x minus t."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 346.02,
+      "End": 355.53999999999996,
+      "Text": "So this is the condition for odd signals and if we talk about time t equal to zero, when"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 355.66,
+      "End": 362.66,
+      "Text": "time t is equal to zero, x of zero is equal to minus x minus zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 363.54,
+      "End": 368.78000000000003,
+      "Text": "From here we have x of zero equal to minus x minus zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 368.78000000000003,
+      "End": 375.78000000000003,
+      "Text": "Minus zero is zero so x of zero is equal to minus x zero and this is possible only when"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 378.22,
+      "End": 381.38,
+      "Text": "x of zero is equal to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 381.38,
+      "End": 386.42,
+      "Text": "Therefore an odd signal must be zero at time t equal to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 386.42,
+      "End": 390.21999999999997,
+      "Text": "This is the most important property of the odd signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 390.21999999999997,
+      "End": 395.42,
+      "Text": "When time t is equal to zero, the odd signal must be zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 395.42,
+      "End": 401.58,
+      "Text": "The average or the mean or the DC value of any odd signal is equal to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 401.58,
+      "End": 405.38,
+      "Text": "We are talking about few properties of odd signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 405.38,
+      "End": 412.38,
+      "Text": "The first property is when time t is equal to zero, the odd signal is equal to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 415.9,
+      "End": 422.9,
+      "Text": "The second property is the DC value or the mean or the average of any odd signal is equal"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 423.21999999999997,
+      "End": 424.26,
+      "Text": "to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 424.26,
+      "End": 431.26,
+      "Text": "The average, the mean or the DC value of any odd signal is equal to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 435.94,
+      "End": 441.86,
+      "Text": "And the odd signal will always pass through the origin."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 441.86,
+      "End": 446.82,
+      "Text": "From first property we can clearly see when time t is equal to zero, the odd signal is"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 446.82,
+      "End": 448.18,
+      "Text": "equal to zero."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 448.18,
+      "End": 452.32,
+      "Text": "This means an odd signal will always pass through the origin."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 452.32,
+      "End": 458.68,
+      "Text": "This signal also passes through the origin and if we talk about the sine omega t which"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 458.68,
+      "End": 465.68,
+      "Text": "is odd signal, sine omega t and if we try to find out x of minus t, we will have minus"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 469.56,
+      "End": 476.56,
+      "Text": "sine omega t because sine minus theta is equal to minus sine theta and we have, we have x"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 480.76,
+      "End": 487.76,
+      "Text": "of minus t equal to minus xt which is satisfying the boundary condition."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 488.68,
+      "End": 490.52,
+      "Text": "The property of odd signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 490.52,
+      "End": 497.52,
+      "Text": "So sine omega t is an odd signal and if we plot the waveform of sine function, it will"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 500.56,
+      "End": 502.2,
+      "Text": "look like this."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 502.2,
+      "End": 507.64,
+      "Text": "So you can clearly see the sine function which is an odd function is passing through the"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 507.64,
+      "End": 508.92,
+      "Text": "origin."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 508.92,
+      "End": 512.38,
+      "Text": "This waveform is for sine omega t."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 512.38,
+      "End": 515.12,
+      "Text": "Now we will move to the next property."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 515.12,
+      "End": 519.86,
+      "Text": "Any signal can be represented as sum of odd and even signals."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 519.86,
+      "End": 526.86,
+      "Text": "If we have a general signal, let's say this signal is equal to xt and this general signal"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 527.4,
+      "End": 531.32,
+      "Text": "can be represented as sum of odd and even paths."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 531.32,
+      "End": 538.32,
+      "Text": "Let's say x subscript e is the even component of the signal xt plus x subscript o is the"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 538.9200000000001,
+      "End": 545.9200000000001,
+      "Text": "odd component of the signal xt and when we add the even component and the odd component"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 547.36,
+      "End": 551.0,
+      "Text": "of the signal xt, it is equal to signal xt."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 551.0,
+      "End": 556.44,
+      "Text": "We will discuss this property in the next lecture when we will find out even component"
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 556.44,
+      "End": 559.2800000000001,
+      "Text": "and the odd component of the signal."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 559.2800000000001,
+      "End": 560.8000000000001,
+      "Text": "So this is all for this lecture."
+    },
+    {
+      "Number": "14",
+      "Title": "Even and Odd Signals",
+      "Start": 560.8000000000001,
+      "End": 561.6400000000001,
+      "Text": "See you in the next one."
+    }
+  ],
+  "text": " We have completed various operations of continuous time signals and now we will study different types of continuous time signals. In this lecture I will explain what are even signals and what are odd signals. Based on symmetry of this signal, when time is reversed we can classify signals into two types. The first one is even signal and the second one is odd signal. So when we perform the time reversal and based on symmetry of the obtained signal we can broadly classify signal in these two types. I will first explain even signals. The signals which remain identical under folding operation are called as even signals. So when we perform the folding operation which is also called as time reversal or reflection. So when we perform folding, time reversal or reflection of the signal and the signal remains same, identical means same, then we call such signal even signal. Lets try to understand this in terms of symmetry. The signals which are symmetrical or mirror image about the y axis are called as even signals. We will prove this statement after some time. Lets say the original signal is xt and we will perform the time reversal on this signal. So the obtained signal is simply x of minus t because we have minus of t in case of time reversal in place of t and according to the definition of even signals x of minus t is equal to xt which is the original signal. So this is what we have in case of even signals x of minus t is equal to x of t and this must be true for all the values of time t. So we had signal xt and after performing the time reversal we again have the signal xt. Now we will see few examples of even signals. In the first example we have the waveform of signal xt which is triangular like this. Lets say this is minus a and this is a, the amplitude is equal to a. When you perform the time reversal you will have x of minus t which is exactly same as x of t. When you fold this waveform you will have the same waveform so x of minus t will have the same waveform and this is the example of even signal. In second example, in second example we have the waveform like this and when we perform the folding we will have the identical waveform so x of minus t will have the same waveform. The third example, the third example is x of t equal to cos omega t. Cos omega t is the even signal because when we have, when we have minus t in place of t, x of minus t, x of minus t is equal to cos minus omega t and cos minus theta is equal to cos theta. So cos minus omega t is simply equal to cos omega t which is equal to xt. So x of minus t is equal to xt so this signal cos omega t is satisfying the condition of the even signals and when we plot the waveform of cos omega t it will look something like this and you can see this waveform is mirror image about the y axis or we can say this waveform is symmetrical about the y axis. So in case of even signals we have the symmetrical waveform or mirror image about the y axis. In this signal also you can see the waveform is mirror image about the y axis. Now we will talk about the odd signals. The signals which does not remain identical under folding operation are called as odd signals so this condition is not true in case of odd signals. X of minus t is not equal to x of t. Odd signals are anti-symmetrical about the y axis. Now let us try to understand what do we mean by anti-symmetrical signals. We will perform the time reversal of the signal xt and the signal xt is having the waveform like this. This axis is the y axis and in case of odd signals we have anti-symmetrical waveform about the y axis. When we perform the time reversal this means when we try to find out x of minus t we will have the waveform like this and this waveform represents minus xt or we can write x of t is equal to minus x minus t. So this is the condition for odd signals and if we talk about time t equal to zero, when time t is equal to zero, x of zero is equal to minus x minus zero. From here we have x of zero equal to minus x minus zero. Minus zero is zero so x of zero is equal to minus x zero and this is possible only when x of zero is equal to zero. Therefore an odd signal must be zero at time t equal to zero. This is the most important property of the odd signals. When time t is equal to zero, the odd signal must be zero. The average or the mean or the DC value of any odd signal is equal to zero. We are talking about few properties of odd signals. The first property is when time t is equal to zero, the odd signal is equal to zero. The second property is the DC value or the mean or the average of any odd signal is equal to zero. The average, the mean or the DC value of any odd signal is equal to zero. And the odd signal will always pass through the origin. From first property we can clearly see when time t is equal to zero, the odd signal is equal to zero. This means an odd signal will always pass through the origin. This signal also passes through the origin and if we talk about the sine omega t which is odd signal, sine omega t and if we try to find out x of minus t, we will have minus sine omega t because sine minus theta is equal to minus sine theta and we have, we have x of minus t equal to minus xt which is satisfying the boundary condition. The property of odd signal. So sine omega t is an odd signal and if we plot the waveform of sine function, it will look like this. So you can clearly see the sine function which is an odd function is passing through the origin. This waveform is for sine omega t. Now we will move to the next property. Any signal can be represented as sum of odd and even signals. If we have a general signal, let's say this signal is equal to xt and this general signal can be represented as sum of odd and even paths. Let's say x subscript e is the even component of the signal xt plus x subscript o is the odd component of the signal xt and when we add the even component and the odd component of the signal xt, it is equal to signal xt. We will discuss this property in the next lecture when we will find out even component and the odd component of the signal. So this is all for this lecture. See you in the next one."
+}

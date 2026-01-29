@@ -1,0 +1,334 @@
+{
+  "chunks": [
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 0.0,
+      "End": 10.4,
+      "Text": "In the previous lecture I explained time shifting of continuous time signals."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 10.4,
+      "End": 14.16,
+      "Text": "In this lecture I will explain how to shift the amplitude."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 14.16,
+      "End": 21.52,
+      "Text": "Let's say the original signal is equal to Xt and after performing the amplitude shifting,"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 21.52,
+      "End": 29.44,
+      "Text": "after performing the amplitude shifting, the new signal is equal to Yt and let's say Yt"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 29.44,
+      "End": 34.04,
+      "Text": "is equal to Xt, the original signal, plus K."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 34.04,
+      "End": 40.72,
+      "Text": "Now if you remember the amplitude scaling, in that case we multiplied beta, we multiplied"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 40.72,
+      "End": 47.400000000000006,
+      "Text": "beta to the original signal Xt and it was equal to the new signal but here in this case"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 47.400000000000006,
+      "End": 50.36,
+      "Text": "we are adding K to the original signal."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 50.36,
+      "End": 55.400000000000006,
+      "Text": "So this is the difference between the time scaling and the time shifting."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 55.4,
+      "End": 61.08,
+      "Text": "Here we multiply beta to the original signal but here we add K to the original signal."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 61.08,
+      "End": 66.03999999999999,
+      "Text": "In case of amplitude scaling the original waveform will change but in case of amplitude"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 66.03999999999999,
+      "End": 69.72,
+      "Text": "shifting the original waveform will remain same."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 69.72,
+      "End": 74.0,
+      "Text": "Depending on the value of K we have two cases."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 74.0,
+      "End": 82.16,
+      "Text": "In case number 1, in case number 1, small k is greater than 0 or we can say k is positive"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 82.32,
+      "End": 91.44,
+      "Text": "and let's say, let's say k is equal to plus 2, the original signal or Xt is defined like"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 91.44,
+      "End": 101.03999999999999,
+      "Text": "this, it is equal to 0 when time t is less than 0, it is equal to 2 when time t is less"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 101.03999999999999,
+      "End": 109.0,
+      "Text": "than equal to 2 but greater than or equal to 0, it is 0 again when time t is greater"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 109.0,
+      "End": 110.62,
+      "Text": "than 2."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 110.62,
+      "End": 116.24,
+      "Text": "This is how the original signal is defined and as I have already explained you, the new"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 116.24,
+      "End": 126.72,
+      "Text": "signal Yt is equal to Xt plus K, the original signal plus K, so Yt, the new signal Yt is"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 126.72,
+      "End": 137.28,
+      "Text": "equal to Xt plus 2 because K is equal to 2, so Xt plus 2 and we can easily find out the"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 137.28,
+      "End": 146.92000000000002,
+      "Text": "new signal Yt, 0 plus 2 is equal to 2 when time t is less than 0, 2 plus 2 is 4 when"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 146.92000000000002,
+      "End": 153.84,
+      "Text": "time t is less than or equal to 2 but greater than or equal to 0 and it is again equal to"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 153.84,
+      "End": 157.88,
+      "Text": "2 when time t is greater than 2."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 157.88,
+      "End": 164.08,
+      "Text": "So this is how we define the new signal or the signal after the amplitude shifting and"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 164.08,
+      "End": 171.08,
+      "Text": "we can easily plot the original signal and the new signal using this information."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 171.08,
+      "End": 178.0,
+      "Text": "This is the waveform of the signal Xt and after performing the amplitude shifting, after"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 178.0,
+      "End": 185.52,
+      "Text": "performing the amplitude shifting with K equal to 2, this will be the waveform of new signal"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 185.52,
+      "End": 192.36,
+      "Text": "Yt and you can clearly see after amplitude shifting, the waveform is shifted upward."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 192.36,
+      "End": 201.68,
+      "Text": "So case number 1 is the case of upward shifting, case number 1 is the case of upward shifting,"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 201.68,
+      "End": 205.32000000000002,
+      "Text": "now we will move to the case number 2."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 205.32000000000002,
+      "End": 213.8,
+      "Text": "In case number 2, K is less than 0 or we can say K is negative and let's say K is equal"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 213.8,
+      "End": 224.26000000000002,
+      "Text": "to minus 2, so the new signal, the new signal Yt is equal to Xt minus 2 and we already have"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 224.26000000000002,
+      "End": 233.44,
+      "Text": "the conditions for signal Xt, so we can easily find out Yt when time t is less than 0, Xt"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 233.44,
+      "End": 238.94,
+      "Text": "is equal to 0, so 0 minus 2 is equal to minus 2."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 238.94,
+      "End": 244.98,
+      "Text": "In the same way, when time t is less than or equal to 2 and it is greater than or equal"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 244.98,
+      "End": 249.3,
+      "Text": "to 0, Yt is going to be 0."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 249.3,
+      "End": 255.72,
+      "Text": "After this Yt is equal to minus 2 when time t is greater than 2 and by using this information"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 255.72,
+      "End": 262.94,
+      "Text": "you can easily plot the waveform of Yt in case number 2 and when you plot the waveform,"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 262.94,
+      "End": 271.02,
+      "Text": "you will have something like this, from 0 to 2 it is equal to 0 and when t is less than"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 271.02,
+      "End": 279.7,
+      "Text": "0, it is equal, it is equal to minus 2 and when t is greater than 2, it is again equal"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 279.7,
+      "End": 281.38,
+      "Text": "to minus 2."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 281.38,
+      "End": 288.74,
+      "Text": "So this is the complete waveform for case number 2, this waveform is for case number"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 288.74,
+      "End": 295.46000000000004,
+      "Text": "1 and this waveform is for case number 2 and you can clearly see after amplitude shifting"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 295.46000000000004,
+      "End": 301.5,
+      "Text": "in case number 2, the whole waveform moved downward, so case number 2 is the case of"
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 301.5,
+      "End": 307.74,
+      "Text": "downward shifting, downward shifting."
+    },
+    {
+      "Number": "08",
+      "Title": "Amplitude Shifting of Continuous-Time Signals",
+      "Start": 307.74,
+      "End": 310.02,
+      "Text": "This is all for this lecture, see you in the next one."
+    }
+  ],
+  "text": " In the previous lecture I explained time shifting of continuous time signals. In this lecture I will explain how to shift the amplitude. Let's say the original signal is equal to Xt and after performing the amplitude shifting, after performing the amplitude shifting, the new signal is equal to Yt and let's say Yt is equal to Xt, the original signal, plus K. Now if you remember the amplitude scaling, in that case we multiplied beta, we multiplied beta to the original signal Xt and it was equal to the new signal but here in this case we are adding K to the original signal. So this is the difference between the time scaling and the time shifting. Here we multiply beta to the original signal but here we add K to the original signal. In case of amplitude scaling the original waveform will change but in case of amplitude shifting the original waveform will remain same. Depending on the value of K we have two cases. In case number 1, in case number 1, small k is greater than 0 or we can say k is positive and let's say, let's say k is equal to plus 2, the original signal or Xt is defined like this, it is equal to 0 when time t is less than 0, it is equal to 2 when time t is less than equal to 2 but greater than or equal to 0, it is 0 again when time t is greater than 2. This is how the original signal is defined and as I have already explained you, the new signal Yt is equal to Xt plus K, the original signal plus K, so Yt, the new signal Yt is equal to Xt plus 2 because K is equal to 2, so Xt plus 2 and we can easily find out the new signal Yt, 0 plus 2 is equal to 2 when time t is less than 0, 2 plus 2 is 4 when time t is less than or equal to 2 but greater than or equal to 0 and it is again equal to 2 when time t is greater than 2. So this is how we define the new signal or the signal after the amplitude shifting and we can easily plot the original signal and the new signal using this information. This is the waveform of the signal Xt and after performing the amplitude shifting, after performing the amplitude shifting with K equal to 2, this will be the waveform of new signal Yt and you can clearly see after amplitude shifting, the waveform is shifted upward. So case number 1 is the case of upward shifting, case number 1 is the case of upward shifting, now we will move to the case number 2. In case number 2, K is less than 0 or we can say K is negative and let's say K is equal to minus 2, so the new signal, the new signal Yt is equal to Xt minus 2 and we already have the conditions for signal Xt, so we can easily find out Yt when time t is less than 0, Xt is equal to 0, so 0 minus 2 is equal to minus 2. In the same way, when time t is less than or equal to 2 and it is greater than or equal to 0, Yt is going to be 0. After this Yt is equal to minus 2 when time t is greater than 2 and by using this information you can easily plot the waveform of Yt in case number 2 and when you plot the waveform, you will have something like this, from 0 to 2 it is equal to 0 and when t is less than 0, it is equal, it is equal to minus 2 and when t is greater than 2, it is again equal to minus 2. So this is the complete waveform for case number 2, this waveform is for case number 1 and this waveform is for case number 2 and you can clearly see after amplitude shifting in case number 2, the whole waveform moved downward, so case number 2 is the case of downward shifting, downward shifting. This is all for this lecture, see you in the next one."
+}
