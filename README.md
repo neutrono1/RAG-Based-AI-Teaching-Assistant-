@@ -37,6 +37,7 @@ RAG_BAS_PROJECT/
 ├── response.txt                 # Final AI-generated answer
 ├── VIDEOS/                      # (Empty) Place downloaded videos here
 ├── AUDIOS/                      # (Empty) Place extracted MP3 files here
+├── jsons/                         # all the json file which store the chunks and text 
 └── README.md
 ```
 
@@ -145,6 +146,7 @@ Start & End Time
 Neso Academy – Signals & Systems (YouTube Playlist)
 Used strictly for educational purposes
 
+<<<<<<< HEAD
 
 ##  Future Scope & Enhancements
 
@@ -197,3 +199,11 @@ This RAG-based AI Teaching Assistant has strong potential for scalability, real-
 ---
 
 This project can evolve into a **scalable, timestamp-aware AI educational assistant** that transforms how students interact with video-based learning content.
+=======
+##  Future Improvements
+* Replace CSV with FAISS / ChromaDB
+* Add Streamlit or Web UI
+* Support more subjects
+* Add multi-language support,
+* Deploy as an API
+>>>>>>> 24d872c5eb258a838cbed2905a5735780b01eb0d
