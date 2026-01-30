@@ -11,9 +11,9 @@ for file in files :
    #print(f"tutorial_number: {tutorial_number}, file_name: {file_name}")
    subprocess.run([
         "ffmpeg",
-        "-nostdin",      # 🔑 THIS IS THE FIX
+        "-nostdin",      
         "-y",
-        "-i", f"Signals_and_Systems/{file}",
+        "-i", f"VIDEOS/{file}",
         f"AUDIOS/{tutorial_number}_{file_name}.mp3"
     ]
     )

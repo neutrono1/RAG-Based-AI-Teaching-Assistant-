@@ -20,7 +20,7 @@ def download_playlist_videos():
         # Merge
         "merge_output_format": "mp4",
 
-        # ✅ JS runtime (correct format)
+        #  JS runtime (correct format)
         "js_runtimes": {
             "node": {}
         },
@@ -39,6 +39,6 @@ def download_playlist_videos():
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([playlist_url])
 
-    print("✅ Downloaded first 15 videos successfully")
+    print(" Downloaded first 15 videos successfully")
 
 download_playlist_videos()

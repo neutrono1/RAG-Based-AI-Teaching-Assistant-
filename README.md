@@ -145,9 +145,55 @@ Start & End Time
 Neso Academy – Signals & Systems (YouTube Playlist)
 Used strictly for educational purposes
 
-##  Future Improvements
-* Replace CSV with FAISS / ChromaDB
-* Add Streamlit or Web UI
-* Support more subjects
-* Add multi-language support,
-* Deploy as an API
+
+##  Future Scope & Enhancements
+
+This RAG-based AI Teaching Assistant has strong potential for scalability, real-world deployment, and academic impact. The following enhancements can significantly extend its capabilities:
+
+### 1. Scalability Improvements
+- Replace CSV-based embedding storage with vector databases such as **FAISS, ChromaDB, or Pinecone**
+- Support thousands of lectures and multi-course datasets
+- Enable faster and more accurate semantic retrieval
+
+### 2. Advanced Retrieval Techniques
+- Hybrid search (semantic + keyword-based retrieval)
+- Cross-encoder or reranker models for improved relevance
+- Overlapping and topic-aware chunking strategies
+
+### 3. Expanded Subject Coverage
+- Extend beyond Signals & Systems to other domains such as:
+  - Machine Learning
+  - Physics
+  - Mathematics
+  - Medical and Law education
+- Create a multi-course AI tutor system
+
+### 4. Multilingual & Accessibility Support
+- Automatic translation of lecture transcripts
+- Support for queries in regional and international languages
+- Improved accessibility for diverse learners
+
+### 5. Deployment & Productization
+- Develop a **web-based interface** using Streamlit or React
+- Backend API using FastAPI
+- Cloud deployment using Docker and Kubernetes
+- Mobile application for on-the-go learning
+
+### 6. AI Model Enhancements
+- Use faster transcription models like WhisperX or Faster-Whisper
+- Fine-tune embeddings and LLM prompts for educational accuracy
+- Add hallucination control and answer verification mechanisms
+
+### 7. Educational & Research Applications
+- Intelligent tutoring systems with personalized learning paths
+- Learning analytics based on student queries
+- Research in AI-assisted education and video-based learning
+
+### 8. Commercial & Industry Applications
+- AI-powered tutor for online learning platforms
+- Smart video search engine for long educational videos
+- Licensing solutions for universities and coaching institutes
+
+---
+
+This project can evolve into a **scalable, timestamp-aware AI educational assistant** that transforms how students interact with video-based learning content.
