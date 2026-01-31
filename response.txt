@@ -1,0 +1,8 @@
+Answer:
+The amplitude of a signal refers to its numerical values. For example, values like 1, 0, 1, 2, 2, 1 are described as the amplitudes of a signal. For discrete-time signals, these amplitude values are typically found inside curly braces.
+
+Where it is taught:
+- Lecture Title: Continuous and Discrete Time Signals
+- Lecture Number: 2
+- Start Time: 485.52 seconds
+- End Time: 551.02 seconds
